@@ -2,7 +2,7 @@
   "_meta": {
     "lastUpdated": "2026-04-16",
     "season": "Spring 2026",
-    "source": "https://www.goodreads.com/blog/show/3093",
+    "source": "https://www.goodreads.com/readingchallenges/dp/5e185b22-2384-4e8a-b187-85e176fa0136",
     "version": 1,
     "bookCount": 467,
     "challengeLists": {
@@ -25,7 +25,8 @@
       "end": "2026-06-30",
       "desc": "Read any book from the Goodreads curated mystery & thriller list",
       "tooltip": "This book is on Goodreads' Community Picks list — 86 reader-approved mysteries & thrillers. Read it Apr 1–Jun 30 to earn the badge.",
-      "matchRule": "all"
+      "matchRule": "in_challenge",
+      "matchValue": "community_picks"
     },
     {
       "name": "Trending Books",
@@ -33,8 +34,8 @@
       "end": "2026-06-30",
       "desc": "Read a recently trending book published in 2023 or later",
       "tooltip": "Published 2023 or later — qualifies as a recently trending title. Read it Apr 1–Jun 30 to unlock.",
-      "matchRule": "year_gte",
-      "matchValue": 2023
+      "matchRule": "in_challenge",
+      "matchValue": "trending_books"
     },
     {
       "name": "Editors' Picks",
@@ -42,11 +43,8 @@
       "end": "2026-06-30",
       "desc": "Read an editor-curated book published between 2021–2025",
       "tooltip": "Published 2021–2025 — part of Goodreads' editor-curated selection. Read it Apr 1–Jun 30 to unlock.",
-      "matchRule": "year_between",
-      "matchValue": [
-        2021,
-        2025
-      ]
+      "matchRule": "in_challenge",
+      "matchValue": "editors_picks"
     },
     {
       "name": "Marathon Reader",
@@ -54,7 +52,8 @@
       "end": "2026-06-30",
       "desc": "Tackle a long book of 500+ pages",
       "tooltip": "500+ pages — Goodreads rewards tackling a lengthy read. Read it Apr 1–Jun 30 to unlock.",
-      "matchRule": "long_book"
+      "matchRule": "in_challenge",
+      "matchValue": "marathon_reader"
     },
     {
       "name": "Books on Books",
@@ -62,8 +61,8 @@
       "end": "2026-06-30",
       "desc": "Read a book about books or the world of reading",
       "tooltip": "A story about books, reading, or publishing. Available Apr 15–Jun 30.",
-      "matchRule": "tag",
-      "matchValue": "books-about-books"
+      "matchRule": "in_challenge",
+      "matchValue": "books_on_books"
     }
   ],
   "milestones": [
