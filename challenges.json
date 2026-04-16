@@ -1,0 +1,1230 @@
+{
+  "_meta": {
+    "lastUpdated": "2026-04-16",
+    "season": "Spring 2026",
+    "source": "https://www.goodreads.com/blog/show/3093",
+    "version": 1
+  },
+  "season": {
+    "name": "Spring 2026",
+    "start": "2026-04-01",
+    "end": "2026-06-30"
+  },
+  "specific": [
+    {
+      "name": "Community Picks",
+      "start": "2026-04-01",
+      "end": "2026-06-30",
+      "desc": "Read any book from the Goodreads curated mystery & thriller list",
+      "tooltip": "This book is on Goodreads' Community Picks list — 86 reader-approved mysteries & thrillers. Read it Apr 1–Jun 30 to earn the badge.",
+      "matchRule": "all"
+    },
+    {
+      "name": "Trending Books",
+      "start": "2026-04-01",
+      "end": "2026-06-30",
+      "desc": "Read a recently trending book published in 2023 or later",
+      "tooltip": "Published 2023 or later — qualifies as a recently trending title. Read it Apr 1–Jun 30 to unlock.",
+      "matchRule": "year_gte",
+      "matchValue": 2023
+    },
+    {
+      "name": "Editors' Picks",
+      "start": "2026-04-01",
+      "end": "2026-06-30",
+      "desc": "Read an editor-curated book published between 2021–2025",
+      "tooltip": "Published 2021–2025 — part of Goodreads' editor-curated selection. Read it Apr 1–Jun 30 to unlock.",
+      "matchRule": "year_between",
+      "matchValue": [
+        2021,
+        2025
+      ]
+    },
+    {
+      "name": "Marathon Reader",
+      "start": "2026-04-01",
+      "end": "2026-06-30",
+      "desc": "Tackle a long book of 500+ pages",
+      "tooltip": "500+ pages — Goodreads rewards tackling a lengthy read. Read it Apr 1–Jun 30 to unlock.",
+      "matchRule": "long_book"
+    },
+    {
+      "name": "Books on Books",
+      "start": "2026-04-15",
+      "end": "2026-06-30",
+      "desc": "Read a book about books or the world of reading",
+      "tooltip": "A story about books, reading, or publishing. Available Apr 15–Jun 30.",
+      "matchRule": "tag",
+      "matchValue": "books-about-books"
+    }
+  ],
+  "milestones": [
+    {
+      "name": "Page-Turner",
+      "threshold": 2,
+      "counter": "spring",
+      "start": "2026-04-01",
+      "end": "2026-06-30"
+    },
+    {
+      "name": "Speed Reader",
+      "threshold": 3,
+      "counter": "spring",
+      "start": "2026-04-01",
+      "end": "2026-06-30"
+    },
+    {
+      "name": "Book Boss",
+      "threshold": 5,
+      "counter": "spring",
+      "start": "2026-04-01",
+      "end": "2026-06-30"
+    },
+    {
+      "name": "April Reader",
+      "threshold": 1,
+      "counter": "april",
+      "start": "2026-04-01",
+      "end": "2026-04-30"
+    }
+  ],
+  "upcoming": [
+    {
+      "name": "AAPI Month",
+      "start": "2026-05-01",
+      "end": "2026-06-30",
+      "desc": "Celebrating AAPI Month — book list reveals May 1"
+    },
+    {
+      "name": "Summer Prep",
+      "start": "2026-05-12",
+      "end": "2026-06-30",
+      "desc": "Get ready for summer — reveals May 12"
+    },
+    {
+      "name": "Pride Month",
+      "start": "2026-06-01",
+      "end": "2026-06-30",
+      "desc": "Celebrating Pride Month — reveals June 1"
+    }
+  ],
+  "books": [
+    {
+      "title": "Anatomy of an Alibi",
+      "author": "Jo Spain",
+      "year": 2026,
+      "rating": 3.83,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1755269338l/239052933._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/239052933",
+      "tags": [
+        "mystery",
+        "thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Dear Debbie",
+      "author": "Elin Hilderbrand",
+      "year": 2026,
+      "rating": 3.99,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774686324l/238365535._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/238365535",
+      "tags": [
+        "mystery",
+        "cozy"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Her Last Breath",
+      "author": "Gillian McAllister",
+      "year": 2026,
+      "rating": 4.2,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1755530429l/234313865.jpg",
+      "url": "https://www.goodreads.com/book/show/234313865",
+      "tags": [
+        "thriller",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "How to Get Away with Murder",
+      "author": "Harlan Coben",
+      "year": 2026,
+      "rating": 3.85,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747195058l/231126906._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/231126906",
+      "tags": [
+        "thriller",
+        "legal-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "It's Not Her",
+      "author": "Sarah Pearse",
+      "year": 2026,
+      "rating": 3.99,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1751999126l/230443142._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/230443142",
+      "tags": [
+        "thriller",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Little One",
+      "author": "Rhiannon Navin",
+      "year": 2026,
+      "rating": 3.89,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1754512542l/238142754._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/238142754",
+      "tags": [
+        "mystery",
+        "psychological-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Missing Sam",
+      "author": "Susie Steiner",
+      "year": 2026,
+      "rating": 3.83,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1750211638l/232884526._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/232884526",
+      "tags": [
+        "crime",
+        "literary"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "My Husband's Wife",
+      "author": "Jane Corry",
+      "year": 2026,
+      "rating": 4.08,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747668611l/231127462._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/231127462",
+      "tags": [
+        "domestic-thriller",
+        "psychological-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Strangers in the Villa",
+      "author": "Shari Lapena",
+      "year": 2026,
+      "rating": 3.64,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1751942729l/238142885._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/238142885",
+      "tags": [
+        "domestic-thriller",
+        "thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Keeper",
+      "author": "Tana French",
+      "year": 2026,
+      "rating": 4.41,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757472113l/238227104._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/238227104",
+      "tags": [
+        "crime",
+        "literary"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "This Story Might Save Your Life",
+      "author": "Eva Dolan",
+      "year": 2026,
+      "rating": 4.03,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1748929782l/231126887.jpg",
+      "url": "https://www.goodreads.com/book/show/231126887",
+      "tags": [
+        "thriller",
+        "psychological-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Whidbey",
+      "author": "Elizabeth George",
+      "year": 2026,
+      "rating": 3.5,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1751916938l/236079795._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/236079795",
+      "tags": [
+        "mystery",
+        "crime"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Don't Let Him In",
+      "author": "Sophie Hannah",
+      "year": 2025,
+      "rating": 3.76,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730151826l/220160814._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/220160814",
+      "tags": [
+        "psychological-thriller",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Forget Me Not",
+      "author": "Stacy Willingham",
+      "year": 2025,
+      "rating": 3.77,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730123356l/217387937._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/217387937",
+      "tags": [
+        "thriller",
+        "mystery"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Heartwood",
+      "author": "James Lee Burke",
+      "year": 2025,
+      "rating": 3.91,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742998309l/220259184._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/220259184",
+      "tags": [
+        "crime",
+        "literary"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "King of Ashes",
+      "author": "James R. Benn",
+      "year": 2025,
+      "rating": 3.98,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732223678l/219833252._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/219833252",
+      "tags": [
+        "historical",
+        "crime",
+        "mystery"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Not Quite Dead Yet",
+      "author": "Benjamin Stevenson",
+      "year": 2025,
+      "rating": 4.0,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1739418770l/220223963._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/220223963",
+      "tags": [
+        "mystery",
+        "cozy",
+        "humour"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "She Didn't See It Coming",
+      "author": "A.R. Torre",
+      "year": 2025,
+      "rating": 3.89,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1755209416l/220999092._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/220999092",
+      "tags": [
+        "thriller",
+        "mystery"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Ghostwriter",
+      "author": "Freida McFadden",
+      "year": 2025,
+      "rating": 4.05,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1750875554l/234069612._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/234069612",
+      "tags": [
+        "psychological-thriller",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Impossible Fortune",
+      "author": "Richard Osman",
+      "year": 2025,
+      "rating": 4.28,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1744232177l/222292420._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/222292420",
+      "tags": [
+        "cozy",
+        "crime"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Intruder",
+      "author": "Freida McFadden",
+      "year": 2025,
+      "rating": 3.88,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747844349l/231819058.jpg",
+      "url": "https://www.goodreads.com/book/show/231819058",
+      "tags": [
+        "psychological-thriller",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Secret of Secrets",
+      "author": "Dan Brown",
+      "year": 2025,
+      "rating": 3.93,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761313537l/223889699._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/223889699",
+      "tags": [
+        "thriller",
+        "historical"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Widow",
+      "author": "John Grisham",
+      "year": 2025,
+      "rating": 4.09,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1742957382l/229004506._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/229004506",
+      "tags": [
+        "legal-thriller",
+        "whodunnit"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "We Are All Guilty Here",
+      "author": "C.J. Cooke",
+      "year": 2025,
+      "rating": 4.2,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1775069916l/221544394._SX318_.jpg",
+      "url": "https://www.goodreads.com/book/show/221544394",
+      "tags": [
+        "mystery",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "All the Colors of the Dark",
+      "author": "Chris Whitaker",
+      "year": 2024,
+      "rating": 4.24,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718910617l/203019740._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/203019740",
+      "tags": [
+        "mystery",
+        "thriller",
+        "historical"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Darling Girls",
+      "author": "Sally Hepworth",
+      "year": 2024,
+      "rating": 3.99,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688420257l/127280429.jpg",
+      "url": "https://www.goodreads.com/book/show/127280429",
+      "tags": [
+        "thriller",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "First Lie Wins",
+      "author": "Ashley Elston",
+      "year": 2024,
+      "rating": 3.99,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704216161l/164444179._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/164444179",
+      "tags": [
+        "thriller",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Home Is Where the Bodies Are",
+      "author": "Jeneva Rose",
+      "year": 2024,
+      "rating": 3.8,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699642386l/194020321._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/194020321",
+      "tags": [
+        "thriller",
+        "mystery"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Listen for the Lie",
+      "author": "Amy Tintera",
+      "year": 2024,
+      "rating": 4.07,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711398419l/127279000._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/127279000",
+      "tags": [
+        "mystery",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Boyfriend",
+      "author": "Freida McFadden",
+      "year": 2024,
+      "rating": 4.03,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711205083l/208503280._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/208503280",
+      "tags": [
+        "psychological-thriller",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The God of the Woods",
+      "author": "Liz Moore",
+      "year": 2024,
+      "rating": 4.1,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717970585l/199700434._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199700434",
+      "tags": [
+        "historical",
+        "literary",
+        "mystery"
+      ],
+      "longBook": true
+    },
+    {
+      "title": "The Last Murder at the End of the World",
+      "author": "Stuart Turton",
+      "year": 2024,
+      "rating": 3.67,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695302347l/136276877._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/136276877",
+      "tags": [
+        "thriller",
+        "mystery",
+        "literary"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Last Party",
+      "author": "Clare Mackintosh",
+      "year": 2024,
+      "rating": 4.05,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710368139l/205837684._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/205837684",
+      "tags": [
+        "mystery",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Most Wonderful Crime of the Year",
+      "author": "Ally Carter",
+      "year": 2024,
+      "rating": 3.87,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715612813l/199531989._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199531989",
+      "tags": [
+        "cozy",
+        "holiday",
+        "mystery"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Return of Ellie Black",
+      "author": "Emilya Naymark",
+      "year": 2024,
+      "rating": 3.96,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715178138l/199798460._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199798460",
+      "tags": [
+        "thriller",
+        "mystery"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "We Solve Murders",
+      "author": "Richard Osman",
+      "year": 2024,
+      "rating": 4.05,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729543384l/219449299._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/219449299",
+      "tags": [
+        "cozy",
+        "crime"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "All the Dangerous Things",
+      "author": "Stacy Willingham",
+      "year": 2023,
+      "rating": 4.04,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652631076l/60784636.jpg",
+      "url": "https://www.goodreads.com/book/show/60784636",
+      "tags": [
+        "thriller",
+        "mystery"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Bright Young Women",
+      "author": "Jessica Knoll",
+      "year": 2023,
+      "rating": 3.98,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676221840l/101124639.jpg",
+      "url": "https://www.goodreads.com/book/show/101124639",
+      "tags": [
+        "historical",
+        "crime",
+        "literary"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Kill for Me, Kill for You",
+      "author": "Steve Cavanagh",
+      "year": 2023,
+      "rating": 4.0,
+      "cover": "",
+      "url": "https://www.goodreads.com/book/show/56069409",
+      "tags": [
+        "thriller",
+        "crime"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Lessons in Chemistry",
+      "author": "Bonnie Garmus",
+      "year": 2023,
+      "rating": 4.28,
+      "cover": "",
+      "url": "https://www.goodreads.com/book/show/58065033",
+      "tags": [
+        "historical",
+        "literary"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "None of This Is True",
+      "author": "Lisa Jewell",
+      "year": 2023,
+      "rating": 4.07,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092508l/62334530._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/62334530",
+      "tags": [
+        "psychological-thriller",
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Locked Door",
+      "author": "Freida McFadden",
+      "year": 2023,
+      "rating": 4.06,
+      "cover": "",
+      "url": "https://www.goodreads.com/book/show/57899853",
+      "tags": [
+        "thriller",
+        "psychological-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Only One Left",
+      "author": "Riley Sager",
+      "year": 2023,
+      "rating": 4.13,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226.jpg",
+      "url": "https://www.goodreads.com/book/show/62703226",
+      "tags": [
+        "thriller",
+        "mystery",
+        "historical"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "author": "Gabrielle Zevin",
+      "year": 2023,
+      "rating": 4.11,
+      "cover": "",
+      "url": "https://www.goodreads.com/book/show/58784475",
+      "tags": [
+        "literary",
+        "contemporary"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Vera Wong's Unsolicited Advice for Murderers",
+      "author": "Jesse Q. Sutanto",
+      "year": 2023,
+      "rating": 4.02,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671523771l/61827543.jpg",
+      "url": "https://www.goodreads.com/book/show/61827543",
+      "tags": [
+        "cozy",
+        "mystery",
+        "humour"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "What Lies in the Woods",
+      "author": "Kate Alice Marshall",
+      "year": 2023,
+      "rating": 3.94,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652628677l/60784373.jpg",
+      "url": "https://www.goodreads.com/book/show/60784373",
+      "tags": [
+        "mystery",
+        "thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Harlem Shuffle",
+      "author": "Colson Whitehead",
+      "year": 2022,
+      "rating": 3.73,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1624994789i/54626223.jpg",
+      "url": "https://www.goodreads.com/book/show/54626223",
+      "tags": [
+        "historical",
+        "crime"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Magpie Murders",
+      "author": "Anthony Horowitz",
+      "year": 2022,
+      "rating": 3.94,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1504599398i/32075854.jpg",
+      "url": "https://www.goodreads.com/book/show/32075854",
+      "tags": [
+        "mystery",
+        "books-about-books"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Razorblade Tears",
+      "author": "S.A. Cosby",
+      "year": 2022,
+      "rating": 4.12,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1613423031i/57660923.jpg",
+      "url": "https://www.goodreads.com/book/show/57660923",
+      "tags": [
+        "crime",
+        "noir"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Remarkably Bright Creatures",
+      "author": "Shelby Van Pelt",
+      "year": 2022,
+      "rating": 4.22,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1626099986i/58690594.jpg",
+      "url": "https://www.goodreads.com/book/show/58690594",
+      "tags": [
+        "cozy",
+        "contemporary",
+        "mystery"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Guest List",
+      "author": "Lucy Foley",
+      "year": 2022,
+      "rating": 3.79,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1591461181i/52656911.jpg",
+      "url": "https://www.goodreads.com/book/show/52656911",
+      "tags": [
+        "domestic-thriller",
+        "thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Housemaid",
+      "author": "Freida McFadden",
+      "year": 2022,
+      "rating": 4.27,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1646534743i/60556912.jpg",
+      "url": "https://www.goodreads.com/book/show/60556912",
+      "tags": [
+        "thriller",
+        "domestic-thriller",
+        "psychological-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The It Girl",
+      "author": "Ruth Ware",
+      "year": 2022,
+      "rating": 3.84,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1641417661i/59345249.jpg",
+      "url": "https://www.goodreads.com/book/show/59345249",
+      "tags": [
+        "mystery",
+        "thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Maid",
+      "author": "Nita Prose",
+      "year": 2022,
+      "rating": 3.75,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1643228739i/55196813.jpg",
+      "url": "https://www.goodreads.com/book/show/55196813",
+      "tags": [
+        "cozy",
+        "locked-room",
+        "mystery"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Man Who Died Twice",
+      "author": "Richard Osman",
+      "year": 2022,
+      "rating": 4.35,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1616100048i/55457493.jpg",
+      "url": "https://www.goodreads.com/book/show/55457493",
+      "tags": [
+        "cozy",
+        "crime"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Searcher",
+      "author": "Tana French",
+      "year": 2022,
+      "rating": 3.8,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1601540827i/52661162.jpg",
+      "url": "https://www.goodreads.com/book/show/52661162",
+      "tags": [
+        "crime",
+        "literary"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Inheritance Games",
+      "author": "Jennifer Lynn Barnes",
+      "year": 2022,
+      "rating": 4.12,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1587396413i/52439531.jpg",
+      "url": "https://www.goodreads.com/book/show/52439531",
+      "tags": [
+        "mystery",
+        "ya"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Last Thing He Told Me",
+      "author": "Laura Dave",
+      "year": 2021,
+      "rating": 3.83,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603034599i/54981009.jpg",
+      "url": "https://www.goodreads.com/book/show/54981009",
+      "tags": [
+        "thriller",
+        "suspense"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Plot",
+      "author": "Jean Hanff Korelitz",
+      "year": 2021,
+      "rating": 3.81,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1619942417i/55315487.jpg",
+      "url": "https://www.goodreads.com/book/show/55315487",
+      "tags": [
+        "psychological-thriller",
+        "books-about-books"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "year": 2021,
+      "rating": 4.29,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1634158558i/59344312.jpg",
+      "url": "https://www.goodreads.com/book/show/59344312",
+      "tags": [
+        "domestic-thriller",
+        "psychological-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Mexican Gothic",
+      "author": "Silvia Moreno-Garcia",
+      "year": 2020,
+      "rating": 3.66,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1588671875i/53152636.jpg",
+      "url": "https://www.goodreads.com/book/show/53152636",
+      "tags": [
+        "gothic",
+        "historical",
+        "mystery"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Thursday Murder Club",
+      "author": "Richard Osman",
+      "year": 2020,
+      "rating": 3.85,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1582287822i/46000520.jpg",
+      "url": "https://www.goodreads.com/book/show/46000520",
+      "tags": [
+        "cozy",
+        "crime"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "A Good Girl's Guide to Murder",
+      "author": "Holly Jackson",
+      "year": 2019,
+      "rating": 4.28,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1545494980i/40916679.jpg",
+      "url": "https://www.goodreads.com/book/show/40916679",
+      "tags": [
+        "mystery",
+        "ya"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "year": 2019,
+      "rating": 4.16,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1668782119i/40097951.jpg",
+      "url": "https://www.goodreads.com/book/show/40097951",
+      "tags": [
+        "psychological-thriller",
+        "mystery"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "If We Were Villains",
+      "author": "M.L. Rio",
+      "year": 2017,
+      "rating": 4.08,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1480717682i/30319086.jpg",
+      "url": "https://www.goodreads.com/book/show/30319086",
+      "tags": [
+        "dark-academia",
+        "mystery",
+        "literary"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Last Time I Lied",
+      "author": "Riley Sager",
+      "year": 2018,
+      "rating": 4.0,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1508866397i/36750068.jpg",
+      "url": "https://www.goodreads.com/book/show/36750068",
+      "tags": [
+        "thriller",
+        "suspense"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "year": 2018,
+      "rating": 4.39,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1648683726i/32620332.jpg",
+      "url": "https://www.goodreads.com/book/show/32620332",
+      "tags": [
+        "historical",
+        "literary"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Widows of Malabar Hill",
+      "author": "Sujata Massey",
+      "year": 2018,
+      "rating": 3.93,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1497044069i/35133064.jpg",
+      "url": "https://www.goodreads.com/book/show/35133064",
+      "tags": [
+        "historical",
+        "crime"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "My Lovely Wife",
+      "author": "Samantha Downing",
+      "year": 2018,
+      "rating": 3.82,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1567010347i/39796904.jpg",
+      "url": "https://www.goodreads.com/book/show/39796904",
+      "tags": [
+        "domestic-thriller",
+        "psychological-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "A Great Reckoning",
+      "author": "Louise Penny",
+      "year": 2016,
+      "rating": 4.43,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1461617969i/28220985.jpg",
+      "url": "https://www.goodreads.com/book/show/28220985",
+      "tags": [
+        "crime",
+        "cozy"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Couple Next Door",
+      "author": "Shari Lapena",
+      "year": 2016,
+      "rating": 3.8,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1464109813i/28815378.jpg",
+      "url": "https://www.goodreads.com/book/show/28815378",
+      "tags": [
+        "domestic-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "year": 2015,
+      "rating": 3.96,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1748242265i/22557272.jpg",
+      "url": "https://www.goodreads.com/book/show/22557272",
+      "tags": [
+        "domestic-thriller",
+        "psychological-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "year": 2014,
+      "rating": 4.15,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1554086139i/19288043.jpg",
+      "url": "https://www.goodreads.com/book/show/19288043",
+      "tags": [
+        "domestic-thriller",
+        "psychological-thriller"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Girl With the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "year": 2008,
+      "rating": 4.18,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1684638853i/2429135.jpg",
+      "url": "https://www.goodreads.com/book/show/2429135",
+      "tags": [
+        "crime",
+        "thriller"
+      ],
+      "longBook": true
+    },
+    {
+      "title": "Death on the Nile",
+      "author": "Agatha Christie",
+      "year": 1937,
+      "rating": 4.12,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1486837149i/131359.jpg",
+      "url": "https://www.goodreads.com/book/show/131359",
+      "tags": [
+        "classic",
+        "crime",
+        "detective"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The A.B.C. Murders",
+      "author": "Agatha Christie",
+      "year": 1936,
+      "rating": 4.03,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1389733983i/16322.jpg",
+      "url": "https://www.goodreads.com/book/show/16322",
+      "tags": [
+        "classic",
+        "crime",
+        "detective"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "year": 1934,
+      "rating": 4.2,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733926500i/853510.jpg",
+      "url": "https://www.goodreads.com/book/show/853510",
+      "tags": [
+        "classic",
+        "crime",
+        "detective"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "Murder at the Vicarage",
+      "author": "Agatha Christie",
+      "year": 1930,
+      "rating": 4.04,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388386575i/16331.jpg",
+      "url": "https://www.goodreads.com/book/show/16331",
+      "tags": [
+        "classic",
+        "crime",
+        "cozy",
+        "detective"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Murder of Roger Ackroyd",
+      "author": "Agatha Christie",
+      "year": 1926,
+      "rating": 4.26,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1389734015i/16328.jpg",
+      "url": "https://www.goodreads.com/book/show/16328",
+      "tags": [
+        "classic",
+        "crime",
+        "detective",
+        "books-about-books"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Mysterious Affair at Styles",
+      "author": "Agatha Christie",
+      "year": 1920,
+      "rating": 4.0,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1585632445i/52843028.jpg",
+      "url": "https://www.goodreads.com/book/show/52843028",
+      "tags": [
+        "classic",
+        "crime",
+        "detective"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "year": 1892,
+      "rating": 4.3,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1164045516i/3590.jpg",
+      "url": "https://www.goodreads.com/book/show/3590",
+      "tags": [
+        "classic",
+        "crime",
+        "detective"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "year": 1902,
+      "rating": 4.14,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1355929358i/8921.jpg",
+      "url": "https://www.goodreads.com/book/show/8921",
+      "tags": [
+        "classic",
+        "crime",
+        "detective"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "A Study in Scarlet",
+      "author": "Arthur Conan Doyle",
+      "year": 1887,
+      "rating": 4.13,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1519031842i/102868.jpg",
+      "url": "https://www.goodreads.com/book/show/102868",
+      "tags": [
+        "classic",
+        "crime",
+        "detective"
+      ],
+      "longBook": false
+    },
+    {
+      "title": "And Then There Were None",
+      "author": "Agatha Christie",
+      "year": 1939,
+      "rating": 4.27,
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1638425885i/16299.jpg",
+      "url": "https://www.goodreads.com/book/show/16299",
+      "tags": [
+        "classic",
+        "mystery",
+        "whodunnit"
+      ],
+      "longBook": false
+    }
+  ]
+}
