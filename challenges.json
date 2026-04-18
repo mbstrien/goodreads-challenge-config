@@ -140,9 +140,18 @@
       "tags": [
         "fiction"
       ],
-      "longBook": false,
+      "longBook": true,
       "challenges": [
         "editors_picks"
+      ],
+      "description": "A portrait of three generations of the Sackler family—known for lavish donations to the arts and sciences—whose family fortune came from making and marketing OxyContin, a blockbuster painkiller that catalyzed the opioid crisis. A masterpiece of narrative reporting.",
+      "numberOfPages": 535,
+      "awards": [
+        "British Book Award",
+        "PEN/John Kenneth Galbraith Award for Nonfiction",
+        "National Book Critics Circle Award",
+        "Andrew Carnegie Medal",
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -158,7 +167,9 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "description": "Bubblegum is set in an alternate present-day world where the Internet does not exist. Rather, a 'flesh-and-bone robot' called the Curio has dominated the cultural imagination since the 1980s. Belt Magnet, a boy who became one of the first adopters of a Curio, is now writing his memoir—a profoundly hilarious, resonant narrative about heartbreak, longing, art and belonging.",
+      "numberOfPages": 771
     },
     {
       "title": "Or What You Will",
@@ -214,7 +225,13 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "description": "Blindsided by her mother's sudden death and wrecked by a recent love affair, Casey Peabody has arrived in Massachusetts without a plan. At thirty-one, still clutching her determination to live a creative life, she waits tables and works on the novel she's been writing for six years. When she falls for two very different men at the same time, her world fractures even more.",
+      "numberOfPages": 320,
+      "awards": [
+        "Goodreads Choice Award"
+      ],
+      "series": "Casey Peabody"
     },
     {
       "title": "A Good Girl's Guide to Murder",
@@ -271,7 +288,14 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the spice melange. When House Atreides is betrayed, Paul's journey toward a destiny greater than he could ever have imagined begins.",
+      "numberOfPages": 658,
+      "awards": [
+        "Hugo Award",
+        "Nebula Award"
+      ],
+      "series": "Dune"
     },
     {
       "title": "My Lovely Wife",
@@ -324,6 +348,13 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
+      ],
+      "description": "On the banks of the Zambezi River, a few miles from Victoria Falls, begins the story of Zambia, told by a swarm-like chorus. Three Zambian families—Black, white, and brown—collide and converge over the course of a century, from a colonial settlement through to the present and beyond.",
+      "numberOfPages": 576,
+      "awards": [
+        "Arthur C. Clarke Award",
+        "Anisfield-Wolf Book Award",
+        "Los Angeles Times Book Prize"
       ]
     },
     {
@@ -339,6 +370,14 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
+      ],
+      "description": "A sweeping, impassioned work of activism and resistance. Richard Powers's novel unfolds in concentric rings of interlocking fables, from antebellum New York to the Timber Wars of the Pacific Northwest. The story of a handful of people who learn how to see the vast, slow, interconnected world of trees—and are drawn up into its unfolding catastrophe.",
+      "numberOfPages": 502,
+      "awards": [
+        "Booker Prize",
+        "Pulitzer Prize",
+        "PEN/Faulkner Award for Fiction",
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -375,6 +414,11 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
+      ],
+      "description": "Toby is celebrating when the night takes a turn that changes his life—he surprises two burglars who beat him and leave him for dead. Recovering at his family's ancestral home, a skull is found in the trunk of an elm tree—and as detectives close in, Toby is forced to face the possibility that his past may not be what he has always believed.",
+      "numberOfPages": 509,
+      "awards": [
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -434,7 +478,9 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "description": "Part historical and part legend, The Romance of the Three Kingdoms dramatizes the lives of feudal lords during China's Han dynasty—their personal and military battles, intrigues, and struggles to achieve dominance for almost a hundred years. One of the most beloved works of East Asian literature.",
+      "numberOfPages": 617
     },
     {
       "title": "The Widows of Malabar Hill",
@@ -528,7 +574,14 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "description": "The year is 1945. Claire Randall, a former combat nurse, walks through a standing stone in an ancient circle and finds herself in Scotland in 1743. Hurled back in time, she becomes caught in the intrigues of lairds and spies—and meets James Fraser, a gallant young Scots warrior who shows her a love so absolute that Claire is torn between two vastly different men in two irreconcilable lives.",
+      "numberOfPages": 882,
+      "awards": [
+        "RITA Award by Romance Writers of America",
+        "Audie Award"
+      ],
+      "series": "Outlander"
     },
     {
       "title": "The Odyssey",
@@ -560,7 +613,13 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "description": "Aging Hollywood icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life. But when she chooses unknown magazine reporter Monique Grant for the job, no one is more astounded than Monique. Why her? Why now? As Evelyn unspools her tale of ruthless ambition, unexpected friendship, and a great forbidden love, it becomes clear that her life intersects with Monique's own in tragic ways.",
+      "numberOfPages": 389,
+      "awards": [
+        "Goodreads Choice Award"
+      ],
+      "series": "Reidverse"
     },
     {
       "title": "A Great Reckoning",
@@ -627,6 +686,13 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
+      ],
+      "description": "Sibylla, an American single mother in London, teaches her son Ludo using methods from J.S. Mill and Yo-Yo Ma—causing havoc at school. Lacking male role models, she turns to endless replays of Kurosawa's Seven Samurai. At eleven, Ludo sets out on a secret quest for the father he never knew.",
+      "numberOfPages": 548,
+      "awards": [
+        "Orange Prize",
+        "Los Angeles Times Book Prize",
+        "Dublin Literary Award"
       ]
     },
     {
@@ -666,7 +732,9 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "description": "George Eliot's masterpiece explores a fictional nineteenth-century Midlands town in the midst of sweeping change—the Reform Bill, new railroads, and scientific advances. Against this backdrop, the quiet drama of ordinary lives is played out until the arrival of two outsiders disrupts the town's equilibrium.",
+      "numberOfPages": 786
     },
     {
       "title": "The Girl on the Train",
@@ -701,6 +769,13 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
+      ],
+      "description": "On December 3, 1976, gunmen stormed Bob Marley's house. Spanning decades and continents—from the streets of Kingston in the 70s to the crack wars in 80s New York to a radically altered Jamaica in the 90s—A Brief History of Seven Killings is the fictional exploration of that dangerous time and its bloody aftermath.",
+      "numberOfPages": 688,
+      "awards": [
+        "Booker Prize",
+        "American Book Award",
+        "National Book Critics Circle Award"
       ]
     },
     {
@@ -759,6 +834,15 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
+      ],
+      "description": "On a cold and snowy night in 1910, Ursula Todd is born—and dies before she can draw her first breath. On that same night, Ursula Todd is born, lets out a lusty wail, and embarks upon an unusual life. As she grows, she also dies, repeatedly, in a variety of ways, while the young century marches toward its second World War.",
+      "numberOfPages": 544,
+      "awards": [
+        "Costa Book Award",
+        "Women's Prize for Fiction",
+        "Andrew Carnegie Medal",
+        "Walter Scott Prize",
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -797,6 +881,11 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
+      ],
+      "description": "The Woman in White famously opens with Walter Hartright's eerie encounter on a moonlit London road. Engaged as a drawing master to the beautiful Laura Fairlie, Walter is drawn into the sinister intrigues of Sir Percival Glyde and his charming friend Count Fosco, who has a taste for white mice, vanilla bonbons, and poison.",
+      "numberOfPages": 702,
+      "awards": [
+        "Audie Award"
       ]
     },
     {
@@ -812,7 +901,13 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "description": "In 1984 Tokyo, a woman named Aomame begins to notice puzzling discrepancies in the world around her—she has entered a parallel existence she calls 1Q84. Meanwhile, an aspiring writer named Tengo takes on a suspect ghostwriting project that begins to unravel his previously placid life.",
+      "numberOfPages": 944,
+      "awards": [
+        "Goodreads Choice Award"
+      ],
+      "series": "1Q84"
     },
     {
       "title": "The Night Circus",
@@ -827,6 +922,14 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
+      ],
+      "description": "The circus arrives without warning. Within the black-and-white striped tents is Le Cirque des Rêves, open only at night. Behind the scenes, a fierce competition unfolds—a duel between two young magicians, Celia and Marco, who have been trained since childhood for this purpose. Despite themselves, they tumble headfirst into love.",
+      "numberOfPages": 506,
+      "awards": [
+        "Locus Award",
+        "Orange Prize",
+        "Guardian First Book Award",
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -1051,6 +1154,13 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
+      ],
+      "description": "Winner of the 1973 National Book Award, Gravity's Rainbow is a postmodern epic, exhaustively significant to the second half of the 20th century as Joyce's Ulysses was to the first. Its sprawling, encyclopedic narrative and penetrating analysis of the impact of technology on society make it an intellectual tour de force.",
+      "numberOfPages": 776,
+      "awards": [
+        "Nebula Award",
+        "National Book Award",
+        "William Dean Howells Medal"
       ]
     },
     {
@@ -1191,7 +1301,10 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "description": "Edith Grossman's definitive English translation of the Spanish masterpiece. The adventures of the self-created knight-errant Don Quixote of La Mancha and his faithful squire, Sancho Panza, as they travel through sixteenth-century Spain—widely regarded as one of the funniest and most tragic books ever written.",
+      "numberOfPages": 940,
+      "series": "Don Quijote de la Mancha"
     },
     {
       "title": "And Then There Were None",
@@ -1344,7 +1457,9 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "description": "Dickens's masterpiece centers on the generations-long lawsuit Jarndyce and Jarndyce, through which 'whole families have inherited legendary hatreds.' Esther Summerson's romantic coming-of-age and the gradual revelation of long-buried secrets unfold against the foggy backdrop of the Court of Chancery.",
+      "numberOfPages": 887
     },
     {
       "title": "Perdido Street Station",
@@ -1383,6 +1498,13 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
+      ],
+      "description": "New York City, 1939. A young escape artist named Joe Kavalier arrives on the doorstep of his cousin Sammy Clay. Together, amid the long shadow of Hitler, they create comic book tales of the heroic, fascist-fighting Escapist—climbing from the streets of Brooklyn to the top of the Empire State Building. A Pulitzer Prize-winning American epic.",
+      "numberOfPages": 639,
+      "awards": [
+        "Pulitzer Prize",
+        "PEN/Faulkner Award for Fiction",
+        "California Book Award"
       ]
     },
     {
@@ -1846,6 +1968,11 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
+      ],
+      "description": "Ricki Wilde is the impulsive, artistic daughter of an Atlanta dynasty—the opposite of her famous socialite sisters. When regal nonagenarian Ms. Della invites her to rent the bottom floor of her Harlem brownstone, Ricki jumps at the chance. One evening in February, she encounters a deeply mysterious stranger who knocks her world off balance.",
+      "numberOfPages": 339,
+      "awards": [
+        "NAACP Image Award"
       ]
     },
     {
@@ -1882,7 +2009,9 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "description": "Literature professor Eileen Merriweather loves to get lost in a happily-ever-after—the fictional kind. When her car breaks down on the way to her book club retreat, she finds herself stranded in Eloraton, the town of her favorite romance series. It's perfect—and perfectly frozen, trapped in the late author's last unfinished story.",
+      "numberOfPages": 368
     },
     {
       "title": "A Swim in a Pond in the Rain",
@@ -1936,7 +2065,9 @@
       "longBook": false,
       "challenges": [
         "trending_books"
-      ]
+      ],
+      "description": "Agnes Aubert runs a meticulously organized cat rescue charity in 1920s Montreal—and discovers her new landlord is using it as a front for a disreputable magic shop. Owned by the handsome but irritating Havelock Renard, a failed Dark Lord, the shop draws magical clientele from around the world. When an enemy from Havelock's past surfaces, the shelter itself is in jeopardy.",
+      "numberOfPages": 353
     },
     {
       "title": "Alchemised",
@@ -2014,6 +2145,11 @@
       "longBook": false,
       "challenges": [
         "community_picks"
+      ],
+      "description": "A year ago, Isabelle Drake's toddler son Mason was taken from his crib in the middle of the night. The case quickly went cold. Except for the occasional catnap, Isabelle hasn't slept in a year. When she agrees to be interviewed by a true-crime podcaster, his interest in her past makes her nervous—and her severe insomnia has brought up uncomfortable memories that make her doubt her own recollections.",
+      "numberOfPages": 326,
+      "awards": [
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -2054,7 +2190,9 @@
       "longBook": false,
       "challenges": [
         "trending_books"
-      ]
+      ],
+      "description": "In 2000, a friend sent Liz Gilbert to see a new hairdresser named Rayya Elias. Over the years, they became best friends, then inseparable. When tragedy entered their lives, the truth was finally laid bare: the two were in love. An intimate memoir about the collision of two addicts and the path through love toward peace and freedom.",
+      "numberOfPages": 400
     },
     {
       "title": "American Struggle",
@@ -2087,7 +2225,10 @@
       "challenges": [
         "trending_books",
         "books_on_books"
-      ]
+      ],
+      "description": "Sadie Shaw and Jonah Fisher have been academic rivals since they first crossed paths thirteen years ago. Now a coveted teaching opportunity is available—and it offers partner hire. Sadie hatches a plot: all they must do is get legally married. It's a simple win-win solution, but sparks begin to fly.",
+      "numberOfPages": 368,
+      "series": "Love Notes"
     },
     {
       "title": "An Island Princess Starts a Scandal",
@@ -2157,7 +2298,9 @@
       "longBook": false,
       "challenges": [
         "trending_books"
-      ]
+      ],
+      "description": "At 2:30 a.m. on July 11, 2020, Jen Hatmaker awoke to her husband of twenty-six years carrying on a whispered phone conversation with another woman. In candid, surprisingly funny vignettes spanning forty years, she lays bare the disorienting upheaval of midlife and the myths that brought her to this point.",
+      "numberOfPages": 304
     },
     {
       "title": "Babel",
@@ -2172,6 +2315,15 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
+      ],
+      "description": "1828. Robin Swift, orphaned by cholera in Canton, is brought to London to train for Oxford's Royal Institute of Translation—also known as Babel. Silver-working, the art of manifesting the meaning lost in translation using enchanted silver bars, has made Britain unparalleled in power. But Robin realizes that serving Babel means betraying his motherland.",
+      "numberOfPages": 544,
+      "awards": [
+        "Nebula Award",
+        "Locus Award",
+        "World Fantasy Award",
+        "British Book Award",
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -2246,7 +2398,9 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "description": "Josie Klein and Ryan Lawson manage bookstores on the same Boston street—hers for serious literature, his for romance only. When the new owner decides to combine them, only one manager will be left standing. Their competing styles lead to more than just frustration—and little do they know they're already friends online under anonymous usernames.",
+      "numberOfPages": 414
     },
     {
       "title": "Before I Forget",
@@ -2295,7 +2449,9 @@
       "longBook": false,
       "challenges": [
         "trending_books"
-      ]
+      ],
+      "description": "When Beth March is found dead in the woods on New Year's Day, her sisters vow to uncover her murderer. Suspects abound—including each of the March girls themselves. Beth's perspective in flashback unfolds next to Meg, Jo, and Amy's increasingly fraught investigation in this bold reimagining of Little Women.",
+      "numberOfPages": 400
     },
     {
       "title": "Bibliophobia",
@@ -2385,7 +2541,9 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "description": "The riveting, untold story of the scholars, librarians, and university professors recruited as spies during WWII—including a literature professor who hunted German spies and turned them into double agents, a history professor who headed analysis for all of Europe, and an archivist who secretly acquired documents in Stockholm.",
+      "numberOfPages": 400
     },
     {
       "title": "Book Lovers",
@@ -2474,7 +2632,13 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
-      ]
+      ],
+      "description": "Misery Lark, the only daughter of the most powerful Vampyre councilman, is called upon to uphold a historic peacekeeping alliance with the Weres—which means surrendering herself. Their Alpha, Lowe Moreland, rules his pack with absolute authority. It's clear from the way he tracks Misery's every movement that he doesn't trust her. If only he knew how right he was.",
+      "numberOfPages": 410,
+      "awards": [
+        "Goodreads Choice Award"
+      ],
+      "series": "Bride"
     },
     {
       "title": "Brigands & Breadknives",
@@ -2509,6 +2673,12 @@
       "challenges": [
         "community_picks",
         "editors_picks"
+      ],
+      "description": "Tallahassee, 1978. Sorority president Pamela Schumacher wakes to a shocking scene of violence and death. In Seattle, Tina Cannon connects her best friend's disappearance to the Tallahassee tragedy. Determined to find justice, the two join forces in a search that leads to a final, shocking confrontation—and deconstructs the myth of the criminal mastermind.",
+      "numberOfPages": 384,
+      "awards": [
+        "Edgar Award",
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -2580,9 +2750,14 @@
       "tags": [
         "books-about-books"
       ],
-      "longBook": false,
+      "longBook": true,
       "challenges": [
         "books_on_books"
+      ],
+      "description": "Young playwright Melina Green has just written a new work inspired by her Elizabethan ancestor Emilia Bassano. Meanwhile in 1581, Emilia—forced to become a mistress to the Lord Chamberlain—begins to form a plan to secretly bring a play of her own to the stage by paying an actor named William Shakespeare to front her work.",
+      "numberOfPages": 528,
+      "awards": [
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -2677,7 +2852,9 @@
       "longBook": false,
       "challenges": [
         "trending_books"
-      ]
+      ],
+      "description": "In 1998, FBI agent Bob Hilland reluctantly called the famous psychic John Edward for help on an unsolvable cold case. What he never imagined was that the call would shatter all his preconceived notions and lead to a huge break—and a twenty-five-year crime-solving journey that followed.",
+      "numberOfPages": 304
     },
     {
       "title": "Cleopatra",
@@ -3108,7 +3285,8 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
-      ]
+      ],
+      "description": "Roman Carruthers left the smoke and fire of his family's crematory business behind. When his father falls into a coma and his brother is deeply in debt to dangerous criminals, Roman must use all his skills to protect his family while confronting the shadow of their mother's disappearance twenty years ago."
     },
     {
       "title": "Ex Libris",
@@ -3293,7 +3471,9 @@
       "longBook": false,
       "challenges": [
         "trending_books"
-      ]
+      ],
+      "description": "In 2023, 93 of the 100 most-watched programs on American television were pro football games. Cultural critic Chuck Klosterman gets to the bottom of why one sport has such a chokehold on American life—from the religion of high school ball to the eerie perfection of football's marriage with television.",
+      "numberOfPages": 304
     },
     {
       "title": "Forget Me Not",
@@ -3309,7 +3489,9 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "description": "Claire Campbell's older sister Natalie disappeared twenty-two years ago. When her father forces her to come back home, Claire accepts a job at Galloway Farm, a muscadine vineyard where her sister seemed truly happy before she vanished. She stumbles across an old diary—and begins to suspect her sister's disappearance may be tied to it.",
+      "numberOfPages": 325
     },
     {
       "title": "Funny Story",
@@ -3381,7 +3563,9 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "description": "Jimmy Perrini lives in 1970s suburban New Jersey. At the end of eighth grade, after tragedy strikes, he drifts into troubling friendships—with a notorious local burnout with a fast car and an endless supply of weed, and an eccentric girl whose Ouija board may offer the only salve to their shared grief. Narrated by a much older Jimmy, a novelist who finally has the courage to tell the story.",
+      "numberOfPages": 288
     },
     {
       "title": "Good People",
@@ -3396,7 +3580,9 @@
       "longBook": false,
       "challenges": [
         "trending_books"
-      ]
+      ],
+      "description": "The Sharaf family is the picture of success—refugees who built a wealthy, happy life in America's most exclusive neighborhood. When an unthinkable tragedy strikes and the family is thrust into the court of public opinion, their image of the model immigrant family begins to crack. Told through a kaleidoscope of perspectives.",
+      "numberOfPages": 400
     },
     {
       "title": "Good Spirits",
@@ -3411,7 +3597,10 @@
       "longBook": false,
       "challenges": [
         "trending_books"
-      ]
+      ],
+      "description": "Ghost of Christmas Past Nolan Callahan intends to spend this holiday haunting like every other—until he's faced with Harriet York, the sweetest assignment he's ever had, and finds himself wishing for a future. As they examine her past together, they discover threads that bind them—and realize there might be more to moving on than expected.",
+      "numberOfPages": 384,
+      "series": "Ghosted"
     },
     {
       "title": "Graceless Heart",
@@ -3426,7 +3615,10 @@
       "longBook": false,
       "challenges": [
         "trending_books"
-      ]
+      ],
+      "description": "In 15th-century Volterra, sculptress Ravenna Maffei enters a competition hosted by a secretive, immortal family and reveals a rare magical talent—a dangerous act in a city where magic is forbidden. Kidnapped and taken to Florence, she is forced into an impossible task where failure means death at the hands of the family's enigmatic heir.",
+      "numberOfPages": 488,
+      "series": "The Spellbound History Quartet"
     },
     {
       "title": "Great Circle",
@@ -3540,7 +3732,16 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "description": "Ray Carney was only slightly bent when it came to being crooked. To his neighbors on 125th street, he's an upstanding furniture salesman. But when his cousin Freddie falls in with a crew who plan to rob the Hotel Theresa and volunteers Ray's services as the fence, Ray finds himself navigating shady cops, vicious gangsters, and other Harlem lowlifes.",
+      "numberOfPages": 318,
+      "awards": [
+        "Hammett Prize",
+        "National Book Critics Circle Award",
+        "Kirkus Prize",
+        "Goodreads Choice Award"
+      ],
+      "series": "The Harlem Trilogy"
     },
     {
       "title": "Hazelthorn",
@@ -3598,6 +3799,11 @@
       "challenges": [
         "community_picks",
         "editors_picks"
+      ],
+      "description": "In the heart of the Maine woods, an experienced Appalachian Trail hiker goes missing 200 miles from her final destination. Valerie Gillis pours her thoughts into fractured, poetic letters to her mother as she battles the elements. At the heart of the investigation is game warden Beverly, leading the search on the ground, while an unexpected armchair detective across the country forms theories of her own.",
+      "numberOfPages": 309,
+      "awards": [
+        "Audie Award"
       ]
     },
     {
@@ -4045,6 +4251,13 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
+      ],
+      "description": "Peter is a Dublin lawyer in his thirties—successful but medicating himself to sleep in the wake of his father's death. Ivan is twenty-two, a competitive chess player who now meets Margaret, an older woman emerging from her own turbulent past. For two grieving brothers and the people they love, a new interlude of desire, despair, and possibility.",
+      "numberOfPages": 464,
+      "awards": [
+        "British Book Award",
+        "Australian Book Industry Award (ABIA)",
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -4238,6 +4451,14 @@
       "longBook": false,
       "challenges": [
         "community_picks"
+      ],
+      "description": "Roman Carruthers left the smoke and fire of his family's crematory business behind. He's enjoying Atlanta life until his sister calls—their father is in a coma after a hit-and-run. When Roman goes home, he learns the accident may not be what it seems, and his brother is deeply in debt to dangerous criminals.",
+      "numberOfPages": 333,
+      "awards": [
+        "Barry Award",
+        "Audie Award",
+        "Los Angeles Times Book Prize",
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -4250,9 +4471,15 @@
       "tags": [
         "fiction"
       ],
-      "longBook": false,
+      "longBook": true,
       "challenges": [
         "trending_books"
+      ],
+      "description": "Arthur Oakes is a student at Rackham College, Maine, when local criminals corner him into stealing rare books from the college library. Trapped and desperate, he and his closest friends dream up a wild scheme: summon a dragon using the unnerving Crane journal—bound in the skin of its author.",
+      "numberOfPages": 896,
+      "awards": [
+        "Bram Stoker Award",
+        "Audie Award"
       ]
     },
     {
@@ -4323,7 +4550,9 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "description": "In this part-memoir, part-manifesto, poet and policy strategist Camonghne Felix argues that Black radical poetic traditions can model a new ethical code and overcome entrenched structures of patriarchy and paternalism. She draws on her decade at the center of American politics and her coming-of-age schooled in a tradition of Black radical thinkers.",
+      "numberOfPages": 192
     },
     {
       "title": "Listen for the Lie",
@@ -4474,7 +4703,9 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
-      ]
+      ],
+      "description": "Myung and Laleh are keepers of the whale of babel. They roam within its cosmic chambers and pray to an enigmatic figure known as Great Wisa. When Myung flees the whale, she stumbles into a new universe where shapeshifting islands and ancient maps hold sway—and sets off on an adventure that is both tragic and transformative.",
+      "numberOfPages": 432
     },
     {
       "title": "Marble Hall Murders",
@@ -4572,7 +4803,9 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
-      ]
+      ],
+      "description": "The emergence of artificial life intersects with state violence and political extremism in rural Appalachia. Farmers hire android employees. An ATF director navigates a crisis. An android named Ora sits in a room, drawing on the walls, tracing something over and over again. Unflinching, nonlinear, and understated.",
+      "numberOfPages": 309
     },
     {
       "title": "Metal from Heaven",
@@ -4666,6 +4899,11 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
+      ],
+      "description": "Grieving mother Magos cuts out a piece of her deceased eleven-year-old son Santiago's lung. Acting on fierce maternal instinct, she nurtures the lung until it gains sentience, growing into the carnivorous little Monstrilio she keeps hidden within her family's decaying Mexico City estate. A thought-provoking meditation on grief and the monstrous sides of love.",
+      "numberOfPages": 336,
+      "awards": [
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -4760,7 +4998,10 @@
       "longBook": false,
       "challenges": [
         "trending_books"
-      ]
+      ],
+      "description": "Following his estranged Vietnam-veteran father's funeral, Nash is unexpectedly approached by the FBI in the middle of the night. They need an inside man to expose an enterprise laundering large sums through his firm—at the top of which is Victoria Steers, an international criminal mastermind the FBI has been trying to bring down for years.",
+      "numberOfPages": 448,
+      "series": "Walter Nash"
     },
     {
       "title": "Native Son",
@@ -4853,6 +5094,11 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
+      ],
+      "description": "Alice has always wanted to be a writer—until a devastating event breaks her heart open and she creates a stunning debut novel. Her words then find their way to readers: a teenager hiding homelessness, a free diver pushing himself beyond endurance, a widower rent by grief. Together, their stories reveal how books can affect us in the most beautiful and unexpected ways.",
+      "numberOfPages": 314,
+      "awards": [
+        "Audie Award"
       ]
     },
     {
@@ -4869,6 +5115,13 @@
       "challenges": [
         "trending_books",
         "editors_picks"
+      ],
+      "description": "Virginia Roberts Giuffre, Jeffrey Epstein and Ghislaine Maxwell's most outspoken victim, left behind a memoir written in the years preceding her death. Nobody's Girl is the riveting and powerful story of an ordinary girl who grew up to confront extraordinary adversity—an affirmation of her unshakable will and legacy.",
+      "numberOfPages": 367,
+      "awards": [
+        "Audie Award",
+        "Australian Book Industry Award (ABIA)",
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -4885,6 +5138,13 @@
       "longBook": false,
       "challenges": [
         "community_picks"
+      ],
+      "description": "Popular podcaster Alix Summers crosses paths with an unassuming woman called Josie Fair—they share the same birthday. Slowly, Alix realizes that Josie has been hiding very dark secrets, and before she knows it, Josie has inveigled her way into Alix's home—then vanishes, leaving a terrible and terrifying legacy in her wake.",
+      "numberOfPages": 390,
+      "awards": [
+        "British Book Award",
+        "Audie Award",
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -5013,7 +5273,9 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "description": "Playwright Eve Ambroise breaks up with her fiancé, cuts off her parents, and heads to the Tennessee mountains for a fresh start. But keeping up the lie that she's just on a writing retreat becomes near impossible when faced with well-meaning townspeople—and a single-dad neighbor who has just as much baggage as she has.",
+      "numberOfPages": 448
     },
     {
       "title": "One & Only",
@@ -5080,6 +5342,13 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
+      ],
+      "description": "In 1936 a writer planted roses. Rebecca Solnit's account of this understudied aspect of Orwell's life journeys through his writing and actions—from coal mines to the Spanish Civil War—while drawing unexpected connections to the rose industries of Colombia, Stalin's obsession with forcing lemons to grow in the cold, and a rereading of Nineteen Eighty-Four.",
+      "numberOfPages": 320,
+      "awards": [
+        "PEN/Jacqueline Bograd Weld Award for Biography",
+        "Orwell Prize",
+        "National Book Critics Circle Award"
       ]
     },
     {
@@ -5251,6 +5520,12 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
+      ],
+      "description": "The United States, the richest country on earth, has more poverty than any other advanced democracy. Why? Sociologist Matthew Desmond draws on history, research, and original reporting to show how affluent Americans knowingly and unknowingly keep poor people poor—and makes a startlingly original case for ending poverty.",
+      "numberOfPages": 284,
+      "awards": [
+        "Audie Award",
+        "Goodreads Choice Award"
       ]
     },
     {
@@ -5314,7 +5589,9 @@
       "challenges": [
         "trending_books",
         "editors_picks"
-      ]
+      ],
+      "description": "From the author of Stiff and Fuzz, a rollicking exploration of the quest to re-create the impossible complexities of human anatomy—from noses crafted from brass to hearts borrowed from pigs to body parts grown from scratch using stem cells and 3D printers. Mary Roach asks: how are we doing? Are we there yet?",
+      "numberOfPages": 288
     },
     {
       "title": "River of the Gods",
@@ -5349,7 +5626,9 @@
       "longBook": false,
       "challenges": [
         "trending_books"
-      ]
+      ],
+      "description": "After watching Roe v. Wade get reversed while teaching Rosemary's Baby to her students, Columbia professor Eleanor Johnson had an epiphany: horror cinema engages directly with the politics of women's rights. A celebration of seminal horror films—and an unflinching recognition of their power to reflect gender and power.",
+      "numberOfPages": 352
     },
     {
       "title": "Separation of Church and Hate",
@@ -5364,6 +5643,11 @@
       "longBook": false,
       "challenges": [
         "trending_books"
+      ],
+      "description": "For more than two centuries the Constitution has kept church and state separate. So why is Christianity suddenly being co-opted by far-right groups to justify oppressive policies? Comedian John Fugelsang—child of a former Catholic nun and Franciscan brother—takes readers through common talking points and exposes their hypocrisy through scripture and common sense.",
+      "numberOfPages": 288,
+      "awards": [
+        "Audie Award"
       ]
     },
     {
@@ -5403,7 +5687,9 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "description": "Bryden and Sam have a thriving marriage—lavish careers, a smart apartment, a cherished daughter. The perfect life for the perfect couple. Then Sam receives a call at his office: Bryden has failed to collect their daughter, and no one knows where she is. A gripping psychological thriller from the bestselling author of Everyone Here is Lying.",
+      "numberOfPages": 352
     },
     {
       "title": "Shut Up and Read: A Memoir",
@@ -5830,7 +6116,9 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "description": "Ana Movilian's beloved publicist resigns the night before her book tour, and her replacement is Ryan Grant—who specializes in highbrow books and clearly doesn't get her. He's the last person who should be promoting her work, and the last person who should look that good in business casual. But city by city, Ana's assumptions about Ryan take new shape.",
+      "numberOfPages": 320
     },
     {
       "title": "The Book Witch",
