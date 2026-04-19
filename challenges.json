@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-18",
+    "lastUpdated": "2026-04-19",
     "season": "Spring 2026",
     "source": "https://www.goodreads.com/readingchallenges/dp/5e185b22-2384-4e8a-b187-85e176fa0136",
     "version": 1,
@@ -135,7 +135,7 @@
       "author": "Patrick Radden Keefe",
       "year": 2021,
       "rating": 4.54,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1611952534i/43868109.jpg",
       "url": "https://www.goodreads.com/book/show/43868109",
       "tags": [
         "fiction"
@@ -152,14 +152,15 @@
         "National Book Critics Circle Award",
         "Andrew Carnegie Medal",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 140895
     },
     {
       "title": "Bubblegum",
       "author": "Adam Levin",
       "year": 2020,
       "rating": 3.83,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1563758819i/45695101.jpg",
       "url": "https://www.goodreads.com/book/show/45695101",
       "tags": [
         "fiction"
@@ -169,14 +170,15 @@
         "marathon_reader"
       ],
       "description": "Bubblegum is set in an alternate present-day world where the Internet does not exist. Rather, a 'flesh-and-bone robot' called the Curio has dominated the cultural imagination since the 1980s. Belt Magnet, a boy who became one of the first adopters of a Curio, is now writing his memoir—a profoundly hilarious, resonant narrative about heartbreak, longing, art and belonging.",
-      "numberOfPages": 771
+      "numberOfPages": 771,
+      "numberOfRatings": 875
     },
     {
       "title": "Or What You Will",
       "author": "Jo Walton",
       "year": 2020,
       "rating": 3.77,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1563305326i/45174884.jpg",
       "url": "https://www.goodreads.com/book/show/45174884",
       "tags": [
         "books-about-books"
@@ -189,14 +191,15 @@
       "numberOfPages": 316,
       "awards": [
         "Mythopoeic Fantasy Award"
-      ]
+      ],
+      "numberOfRatings": 1127
     },
     {
       "title": "The Thursday Murder Club",
       "author": "Richard Osman",
       "year": 2020,
       "rating": 3.85,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1582287822i/46000520.jpg",
       "url": "https://www.goodreads.com/book/show/46000520",
       "tags": [
         "cozy",
@@ -210,14 +213,15 @@
       "awards": [],
       "series": "Thursday Murder Club",
       "pages": 382,
-      "numberOfPages": 382
+      "numberOfPages": 382,
+      "numberOfRatings": 812471
     },
     {
       "title": "Writers & Lovers",
       "author": "Lily King",
       "year": 2020,
       "rating": 3.99,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1580228175i/45289222.jpg",
       "url": "https://www.goodreads.com/book/show/45289222",
       "tags": [
         "books-about-books"
@@ -231,14 +235,15 @@
       "awards": [
         "Goodreads Choice Award"
       ],
-      "series": "Casey Peabody"
+      "series": "Casey Peabody",
+      "numberOfRatings": 199234
     },
     {
       "title": "A Good Girl's Guide to Murder",
       "author": "Holly Jackson",
       "year": 2019,
       "rating": 4.28,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1545494980i/40916679.jpg",
       "url": "https://www.goodreads.com/book/show/40916679",
       "tags": [
         "mystery"
@@ -251,7 +256,8 @@
       "awards": [],
       "series": "A Good Girl's Guide to Murder",
       "pages": 433,
-      "numberOfPages": 433
+      "numberOfPages": 433,
+      "numberOfRatings": 1829964
     },
     {
       "title": "Ducks, Newburyport",
@@ -281,7 +287,7 @@
       "author": "Frank Herbert",
       "year": 2019,
       "rating": 4.29,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
       "url": "https://www.goodreads.com/book/show/44767458",
       "tags": [
         "fiction"
@@ -296,14 +302,15 @@
         "Hugo Award",
         "Nebula Award"
       ],
-      "series": "Dune"
+      "series": "Dune",
+      "numberOfRatings": 1657160
     },
     {
       "title": "My Lovely Wife",
       "author": "Samantha Downing",
       "year": 2019,
       "rating": 3.82,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1530546018i/39796904.jpg",
       "url": "https://www.goodreads.com/book/show/39796904",
       "tags": [
         "psychological-thriller",
@@ -316,14 +323,15 @@
       "description": "We look like a normal couple. We're your neighbors, the parents of your kid's friend. We all have secrets to keeping a marriage alive. Ours just happens to be getting away with murder. A darkly comic psychological thriller about a couple whose boredom leads to something unthinkable.",
       "awards": [],
       "pages": 390,
-      "numberOfPages": 390
+      "numberOfPages": 390,
+      "numberOfRatings": 170339
     },
     {
       "title": "The Hands of the Emperor",
       "author": "Victoria Goddard",
       "year": 2019,
       "rating": 4.4,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1547081914i/43525897.jpg",
       "url": "https://www.goodreads.com/book/show/43525897",
       "tags": [
         "fiction"
@@ -334,14 +342,15 @@
       ],
       "description": "Cliopher Mdang is the personal secretary of the Last Emperor of Astandalas. He has spent more time with the Sun-on-Earth than any other person. One day, he invites the Emperor home to the Vangavaye-ve for a holiday. The acceptance upends the world.",
       "numberOfPages": 969,
-      "series": "Lays of the Hearth-Fire"
+      "series": "Lays of the Hearth-Fire",
+      "numberOfRatings": 4111
     },
     {
       "title": "The Old Drift",
       "author": "Namwali Serpell",
       "year": 2019,
       "rating": 3.73,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1540085530i/40060700.jpg",
       "url": "https://www.goodreads.com/book/show/40060700",
       "tags": [
         "fiction"
@@ -356,14 +365,15 @@
         "Arthur C. Clarke Award",
         "Anisfield-Wolf Book Award",
         "Los Angeles Times Book Prize"
-      ]
+      ],
+      "numberOfRatings": 7699
     },
     {
       "title": "The Overstory",
       "author": "Richard Powers",
       "year": 2019,
       "rating": 4.11,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1562786502i/40180098.jpg",
       "url": "https://www.goodreads.com/book/show/40180098",
       "tags": [
         "fiction"
@@ -379,14 +389,15 @@
         "Pulitzer Prize",
         "PEN/Faulkner Award for Fiction",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 201232
     },
     {
       "title": "The Silent Patient",
       "author": "Alex Michaelides",
       "year": 2019,
       "rating": 4.16,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1668782119i/40097951.jpg",
       "url": "https://www.goodreads.com/book/show/40097951",
       "tags": [
         "psychological-thriller",
@@ -400,14 +411,15 @@
       "description": "Alicia Berenson shoots her husband five times in the face—and then never speaks another word. Therapist Theo Faber becomes obsessed with uncovering her motive, taking him down a twisting path that threatens to consume him in this shocking psychological thriller.",
       "awards": [],
       "pages": 336,
-      "numberOfPages": 336
+      "numberOfPages": 336,
+      "numberOfRatings": 3399401
     },
     {
       "title": "The Witch Elm",
       "author": "Tana French",
       "year": 2019,
       "rating": 3.58,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1559692177i/46007673.jpg",
       "url": "https://www.goodreads.com/book/show/46007673",
       "tags": [
         "fiction"
@@ -420,7 +432,8 @@
       "numberOfPages": 509,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 111485
     },
     {
       "title": "Wanderers",
@@ -451,7 +464,7 @@
       "author": "Riley Sager",
       "year": 2018,
       "rating": 4.0,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1513115459i/36750068.jpg",
       "url": "https://www.goodreads.com/book/show/36750068",
       "tags": [
         "thriller"
@@ -465,14 +478,15 @@
       "numberOfPages": 371,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 225062
     },
     {
       "title": "The Romance of the Three Kingdoms",
       "author": "Luo Guanzhong",
       "year": 2018,
       "rating": 4.37,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1557422573i/38213087.jpg",
       "url": "https://www.goodreads.com/book/show/38213087",
       "tags": [
         "fiction"
@@ -482,14 +496,15 @@
         "marathon_reader"
       ],
       "description": "Part historical and part legend, The Romance of the Three Kingdoms dramatizes the lives of feudal lords during China's Han dynasty—their personal and military battles, intrigues, and struggles to achieve dominance for almost a hundred years. One of the most beloved works of East Asian literature.",
-      "numberOfPages": 617
+      "numberOfPages": 617,
+      "numberOfRatings": 6848
     },
     {
       "title": "The Widows of Malabar Hill",
       "author": "Sujata Massey",
       "year": 2018,
       "rating": 3.93,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1497293192i/35133064.jpg",
       "url": "https://www.goodreads.com/book/show/35133064",
       "tags": [
         "historical",
@@ -502,14 +517,15 @@
       "description": "Bombay, 1921: Perveen Mistry is one of India's first female lawyers. When she investigates the will of a deceased mill owner, she finds three widows in purdah who can't speak to a male lawyer—and begins to suspect that one of them might be in danger.",
       "awards": [],
       "series": "Perveen Mistry",
-      "pages": 361
+      "pages": 361,
+      "numberOfRatings": 34002
     },
     {
       "title": "4 3 2 1",
       "author": "Paul Auster",
       "year": 2017,
       "rating": 3.97,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1463822564i/30244626.jpg",
       "url": "https://www.goodreads.com/book/show/30244626",
       "tags": [
         "fiction"
@@ -523,14 +539,15 @@
       "awards": [
         "Booker Prize",
         "Andrew Carnegie Medal"
-      ]
+      ],
+      "numberOfRatings": 38115
     },
     {
       "title": "If We Were Villains",
       "author": "M.L. Rio",
       "year": 2017,
       "rating": 4.08,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1480717682i/30319086.jpg",
       "url": "https://www.goodreads.com/book/show/30319086",
       "tags": [
         "mystery"
@@ -541,14 +558,15 @@
       ],
       "description": "Oliver Marks served ten years for a murder he may or may not have committed. As one of seven young actors studying Shakespeare at an elite arts college, they each played the same roles onstage and off. When the casting changes and one of them turns up dead, the rest face their greatest acting challenge yet.",
       "pages": 354,
-      "numberOfPages": 354
+      "numberOfPages": 354,
+      "numberOfRatings": 425258
     },
     {
       "title": "Magpie Murders",
       "author": "Anthony Horowitz",
       "year": 2017,
       "rating": 3.94,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1504599398i/32075854.jpg",
       "url": "https://www.goodreads.com/book/show/32075854",
       "tags": [
         "mystery"
@@ -561,14 +579,15 @@
       "awards": [],
       "series": "Susan Ryeland",
       "pages": 477,
-      "numberOfPages": 477
+      "numberOfPages": 477,
+      "numberOfRatings": 171435
     },
     {
       "title": "Outlander",
       "author": "Diana Gabaldon",
       "year": 2017,
       "rating": 4.27,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1504023908i/36145713.jpg",
       "url": "https://www.goodreads.com/book/show/36145713",
       "tags": [
         "fiction"
@@ -583,14 +602,15 @@
         "RITA Award by Romance Writers of America",
         "Audie Award"
       ],
-      "series": "Outlander"
+      "series": "Outlander",
+      "numberOfRatings": 1165758
     },
     {
       "title": "The Odyssey",
       "author": "Homer",
       "year": 2017,
       "rating": 3.84,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1487351579i/34068470.jpg",
       "url": "https://www.goodreads.com/book/show/34068470",
       "tags": [
         "fiction"
@@ -600,14 +620,15 @@
         "marathon_reader"
       ],
       "description": "In this first English translation by a woman, The Odyssey comes alive in vivid, contemporary idiom. A poem about violence and the aftermath of war, wealth and power, marriage and family, and the yearning for home.",
-      "numberOfPages": 582
+      "numberOfPages": 582,
+      "numberOfRatings": 1213634
     },
     {
       "title": "The Seven Husbands of Evelyn Hugo",
       "author": "Taylor Jenkins Reid",
       "year": 2017,
       "rating": 4.39,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1664458703i/32620332.jpg",
       "url": "https://www.goodreads.com/book/show/32620332",
       "tags": [
         "historical"
@@ -621,14 +642,15 @@
       "awards": [
         "Goodreads Choice Award"
       ],
-      "series": "Reidverse"
+      "series": "Reidverse",
+      "numberOfRatings": 4218809
     },
     {
       "title": "A Great Reckoning",
       "author": "Louise Penny",
       "year": 2016,
       "rating": 4.43,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1457914582i/28220985.jpg",
       "url": "https://www.goodreads.com/book/show/28220985",
       "tags": [
         "cozy",
@@ -640,14 +662,15 @@
       ],
       "description": "Rachel takes the same commuter train every morning and evening. Every day she rattles down the track, staring at a stretch of houses, and stops at the signal that allows her to watch the perfect couple. Then she sees something shocking. When the woman she observed goes missing, Rachel finds herself deep in the investigation.",
       "awards": [],
-      "pages": 336
+      "pages": 336,
+      "numberOfRatings": 85289
     },
     {
       "title": "The Couple Next Door",
       "author": "Shari Lapena",
       "year": 2016,
       "rating": 3.8,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1455502095i/28815378.jpg",
       "url": "https://www.goodreads.com/book/show/28815378",
       "tags": [
         "thriller"
@@ -657,14 +680,15 @@
         "community_picks"
       ],
       "description": "Jack and Grace seem like the ideal couple—so devoted to one another that Jack refuses to travel without Grace. Pity. Grace's friends wish they had what she has. But they don't know what goes on behind closed doors. A twisty domestic thriller about a marriage with a terrible secret.",
-      "pages": 358
+      "pages": 358,
+      "numberOfRatings": 563
     },
     {
       "title": "The Historian",
       "author": "Elizabeth Kostova",
       "year": 2016,
       "rating": 3.8,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1717145561i/30236962.jpg",
       "url": "https://www.goodreads.com/book/show/30236962",
       "tags": [
         "fiction"
@@ -673,14 +697,15 @@
       "challenges": [
         "marathon_reader"
       ],
-      "description": "Late one night, a young woman finds an ancient book and a cache of yellowing letters in her father's library. The letters are addressed to 'My dear and only love' and will draw her into a centuries-spanning mystery."
+      "description": "Late one night, a young woman finds an ancient book and a cache of yellowing letters in her father's library. The letters are addressed to 'My dear and only love' and will draw her into a centuries-spanning mystery.",
+      "numberOfRatings": 278297
     },
     {
       "title": "The Last Samurai",
       "author": "Helen DeWitt",
       "year": 2016,
       "rating": 4.11,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1462577104i/26889853.jpg",
       "url": "https://www.goodreads.com/book/show/26889853",
       "tags": [
         "fiction"
@@ -695,14 +720,15 @@
         "Orange Prize",
         "Los Angeles Times Book Prize",
         "Dublin Literary Award"
-      ]
+      ],
+      "numberOfRatings": 12359
     },
     {
       "title": "A Little Life",
       "author": "Hanya Yanagihara",
       "year": 2015,
       "rating": 4.27,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1446469353i/22822858.jpg",
       "url": "https://www.goodreads.com/book/show/22822858",
       "tags": [
         "fiction"
@@ -719,14 +745,15 @@
         "Andrew Carnegie Medal",
         "National Book Award Finalist",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 959602
     },
     {
       "title": "Middlemarch",
       "author": "George Eliot",
       "year": 2015,
       "rating": 4.04,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1445195518i/24612058.jpg",
       "url": "https://www.goodreads.com/book/show/24612058",
       "tags": [
         "fiction"
@@ -736,14 +763,15 @@
         "marathon_reader"
       ],
       "description": "George Eliot's masterpiece explores a fictional nineteenth-century Midlands town in the midst of sweeping change—the Reform Bill, new railroads, and scientific advances. Against this backdrop, the quiet drama of ordinary lives is played out until the arrival of two outsiders disrupts the town's equilibrium.",
-      "numberOfPages": 786
+      "numberOfPages": 786,
+      "numberOfRatings": 181845
     },
     {
       "title": "The Girl on the Train",
       "author": "Paula Hawkins",
       "year": 2015,
       "rating": 3.96,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1748242265i/22557272.jpg",
       "url": "https://www.goodreads.com/book/show/22557272",
       "tags": [
         "psychological-thriller",
@@ -756,14 +784,15 @@
       "description": "Forty years ago, Harriet Vanger disappeared from her family's island gathering. Her uncle is convinced she was murdered—by a member of his own family. He hires disgraced journalist Mikael Blomkvist and hacker Lisbeth Salander to uncover the truth in this sweeping Nordic crime novel.",
       "awards": [],
       "series": "Millennium",
-      "pages": 590
+      "pages": 590,
+      "numberOfRatings": 3328182
     },
     {
       "title": "A Brief History of Seven Killings",
       "author": "Marlon James",
       "year": 2014,
       "rating": 3.89,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1399045083i/20893314.jpg",
       "url": "https://www.goodreads.com/book/show/20893314",
       "tags": [
         "fiction"
@@ -778,7 +807,8 @@
         "Booker Prize",
         "American Book Award",
         "National Book Critics Circle Award"
-      ]
+      ],
+      "numberOfRatings": 38573
     },
     {
       "title": "All the Light We Cannot See",
@@ -810,7 +840,7 @@
       "author": "Gillian Flynn",
       "year": 2014,
       "rating": 4.15,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1554086139i/19288043.jpg",
       "url": "https://www.goodreads.com/book/show/19288043",
       "tags": [
         "psychological-thriller",
@@ -822,14 +852,15 @@
       ],
       "description": "Reporter Camille Preaker returns to her small Missouri hometown to cover a series of murders—the second girl found with her teeth pulled out. But the town and her troubled family keep getting in the way of the story. Camille is fighting demons of her own—scars she hides under layers of clothing.",
       "awards": [],
-      "pages": 254
+      "pages": 254,
+      "numberOfRatings": 3489447
     },
     {
       "title": "Life After Life",
       "author": "Kate Atkinson",
       "year": 2013,
       "rating": 3.79,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1358173808i/15790842.jpg",
       "url": "https://www.goodreads.com/book/show/15790842",
       "tags": [
         "fiction"
@@ -846,14 +877,15 @@
         "Andrew Carnegie Medal",
         "Walter Scott Prize",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 244061
     },
     {
       "title": "The Goldfinch",
       "author": "Donna Tartt",
       "year": 2013,
       "rating": 3.97,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1378710146i/17333223.jpg",
       "url": "https://www.goodreads.com/book/show/17333223",
       "tags": [
         "fiction"
@@ -869,14 +901,15 @@
         "National Book Critics Circle Award",
         "Women's Prize for Fiction",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 1056469
     },
     {
       "title": "The Woman in White",
       "author": "Wilkie Collins",
       "year": 2012,
       "rating": 4.02,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1546422675i/15994527.jpg",
       "url": "https://www.goodreads.com/book/show/15994527",
       "tags": [
         "fiction"
@@ -889,14 +922,15 @@
       "numberOfPages": 702,
       "awards": [
         "Audie Award"
-      ]
+      ],
+      "numberOfRatings": 167943
     },
     {
       "title": "1Q84",
       "author": "Haruki Murakami",
       "year": 2011,
       "rating": 3.95,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1483103331i/10357575.jpg",
       "url": "https://www.goodreads.com/book/show/10357575",
       "tags": [
         "fiction"
@@ -910,14 +944,15 @@
       "awards": [
         "Goodreads Choice Award"
       ],
-      "series": "1Q84"
+      "series": "1Q84",
+      "numberOfRatings": 343262
     },
     {
       "title": "The Night Circus",
       "author": "Erin Morgenstern",
       "year": 2011,
       "rating": 4.0,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1387124618i/9361589.jpg",
       "url": "https://www.goodreads.com/book/show/9361589",
       "tags": [
         "fiction"
@@ -933,14 +968,15 @@
         "Orange Prize",
         "Guardian First Book Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 1113411
     },
     {
       "title": "A Fine Balance",
       "author": "Rohinton Mistry",
       "year": 2010,
       "rating": 4.38,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1541366074i/42629850.jpg",
       "url": "https://www.goodreads.com/book/show/42629850",
       "tags": [
         "fiction"
@@ -955,14 +991,15 @@
         "Booker Prize",
         "Scotiabank Giller Prize",
         "Los Angeles Times Book Prize"
-      ]
+      ],
+      "numberOfRatings": 161625
     },
     {
       "title": "I Hotel",
       "author": "Karen Tei Yamashita",
       "year": 2010,
       "rating": 3.85,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1328752960i/7084002.jpg",
       "url": "https://www.goodreads.com/book/show/7084002",
       "tags": [
         "fiction"
@@ -976,14 +1013,15 @@
       "awards": [
         "American Book Award",
         "National Book Award Finalist"
-      ]
+      ],
+      "numberOfRatings": 826
     },
     {
       "title": "Midnight's Children",
       "author": "Salman Rushdie",
       "year": 2010,
       "rating": 3.97,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1596581004i/9124721.jpg",
       "url": "https://www.goodreads.com/book/show/9124721",
       "tags": [
         "fiction"
@@ -998,14 +1036,15 @@
         "Booker Prize",
         "James Tait Black Memorial Prize",
         "The Booker of Bookers Prize"
-      ]
+      ],
+      "numberOfRatings": 134279
     },
     {
       "title": "Wolf Hall",
       "author": "Hilary Mantel",
       "year": 2010,
       "rating": 3.91,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1402448033i/7826803.jpg",
       "url": "https://www.goodreads.com/book/show/7826803",
       "tags": [
         "fiction"
@@ -1022,14 +1061,15 @@
         "Costa Book Award",
         "National Book Critics Circle Award"
       ],
-      "series": "Thomas Cromwell"
+      "series": "Thomas Cromwell",
+      "numberOfRatings": 236157
     },
     {
       "title": "2666",
       "author": "Roberto Bolaño",
       "year": 2008,
       "rating": 4.22,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1327364614i/3115359.jpg",
       "url": "https://www.goodreads.com/book/show/3115359",
       "tags": [
         "fiction"
@@ -1044,14 +1084,15 @@
         "National Book Critics Circle Award",
         "BTBA Best Translated Book Award"
       ],
-      "series": "2666"
+      "series": "2666",
+      "numberOfRatings": 50023
     },
     {
       "title": "The Girl With the Dragon Tattoo",
       "author": "Stieg Larsson",
       "year": 2008,
       "rating": 4.18,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1684638853i/2429135.jpg",
       "url": "https://www.goodreads.com/book/show/2429135",
       "tags": [
         "crime",
@@ -1063,14 +1104,15 @@
       ],
       "description": "Precious Ramotswe sets up the only detective agency in Botswana, solving mysteries that are less murder and more human—missing husbands, wandering parents, fake witch doctors. A warm, gently comic celebration of Africa and its people.",
       "series": "No. 1 Ladies' Detective Agency",
-      "pages": 226
+      "pages": 226,
+      "numberOfRatings": 3479374
     },
     {
       "title": "Murder on the Orient Express",
       "author": "Agatha Christie",
       "year": 2007,
       "rating": 4.2,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733926500i/853510.jpg",
       "url": "https://www.goodreads.com/book/show/853510",
       "tags": [
         "crime",
@@ -1082,14 +1124,15 @@
       ],
       "description": "Three women, one dead husband, and one very complicated kindergarten. Jane moves to a wealthy beachfront town where Madeleine and Celeste befriend her. What starts with a schoolyard slight escalates into something dark—and eventually deadly.",
       "awards": [],
-      "pages": 460
+      "pages": 460,
+      "numberOfRatings": 747187
     },
     {
       "title": "The Pillars of the Earth",
       "author": "Ken Follett",
       "year": 2007,
       "rating": 4.35,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1576956100i/5043.jpg",
       "url": "https://www.goodreads.com/book/show/5043",
       "tags": [
         "fiction"
@@ -1100,14 +1143,15 @@
       ],
       "description": "A twelfth-century monk is driven to build the greatest Gothic cathedral the world has ever known. Set in feudal England, filled with intrigue, romance, and the ravages of war—one of the most beloved historical novels ever written.",
       "numberOfPages": 976,
-      "series": "Kingsbridge"
+      "series": "Kingsbridge",
+      "numberOfRatings": 841311
     },
     {
       "title": "The Terror",
       "author": "Dan Simmons",
       "year": 2007,
       "rating": 4.09,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1442713631i/3974.jpg",
       "url": "https://www.goodreads.com/book/show/3974",
       "tags": [
         "fiction"
@@ -1122,14 +1166,15 @@
         "Bram Stoker Award",
         "International Horror Guild Award",
         "Shirley Jackson Award"
-      ]
+      ],
+      "numberOfRatings": 75982
     },
     {
       "title": "War and Peace",
       "author": "Leo Tolstoy",
       "year": 2007,
       "rating": 4.17,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1657554504i/290979.jpg",
       "url": "https://www.goodreads.com/book/show/290979",
       "tags": [
         "fiction"
@@ -1142,14 +1187,15 @@
       "numberOfPages": 1296,
       "awards": [
         "Audie Award"
-      ]
+      ],
+      "numberOfRatings": 370432
     },
     {
       "title": "Gravity's Rainbow",
       "author": "Thomas Pynchon",
       "year": 2006,
       "rating": 4.02,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1657594227i/415.jpg",
       "url": "https://www.goodreads.com/book/show/415",
       "tags": [
         "fiction"
@@ -1164,14 +1210,15 @@
         "Nebula Award",
         "National Book Award",
         "William Dean Howells Medal"
-      ]
+      ],
+      "numberOfRatings": 49058
     },
     {
       "title": "Little, Big",
       "author": "John Crowley",
       "year": 2006,
       "rating": 3.8,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1435452849i/90619.jpg",
       "url": "https://www.goodreads.com/book/show/90619",
       "tags": [
         "fiction"
@@ -1188,14 +1235,15 @@
         "Locus Award",
         "World Fantasy Award"
       ],
-      "series": "Le Parlement des fées"
+      "series": "Le Parlement des fées",
+      "numberOfRatings": 12450
     },
     {
       "title": "Murder at the Vicarage",
       "author": "Agatha Christie",
       "year": 2006,
       "rating": 4.04,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388386575i/16331.jpg",
       "url": "https://www.goodreads.com/book/show/16331",
       "tags": [
         "cozy",
@@ -1209,14 +1257,15 @@
       "description": "'Anyone who murdered Colonel Protheroe would be doing the world a favour,' declared the parson—a careless remark that came back to haunt him when the Colonel was found shot dead in his study. As Miss Marple soon discovers, the whole village had a motive.",
       "series": "Miss Marple",
       "pages": 288,
-      "numberOfPages": 288
+      "numberOfPages": 288,
+      "numberOfRatings": 217733
     },
     {
       "title": "The A.B.C. Murders",
       "author": "Agatha Christie",
       "year": 2006,
       "rating": 4.03,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1389733983i/16322.jpg",
       "url": "https://www.goodreads.com/book/show/16322",
       "tags": [
         "crime",
@@ -1229,14 +1278,15 @@
       "description": "A serial killer leaves the ABC Railway Guide beside each victim's body. A is for Alice Asher in Andover; B is for Betty Bernard in Bexhill. As Hercule Poirot races to stay one step ahead, he must unravel why this is happening before the next letter arrives.",
       "series": "Hercule Poirot",
       "pages": 207,
-      "numberOfPages": 207
+      "numberOfPages": 207,
+      "numberOfRatings": 206720
     },
     {
       "title": "The Murder of Roger Ackroyd",
       "author": "Agatha Christie",
       "year": 2006,
       "rating": 4.26,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1389734015i/16328.jpg",
       "url": "https://www.goodreads.com/book/show/16328",
       "tags": [
         "crime",
@@ -1249,14 +1299,15 @@
       "description": "Ten strangers are lured to an isolated island mansion and murdered one by one—each death mirroring a verse of a children's rhyme. As the tension builds and the guests turn on each other, the question isn't who did it but who could possibly survive. The world's best-selling mystery novel.",
       "awards": [],
       "series": "Standalone",
-      "pages": 272
+      "pages": 272,
+      "numberOfRatings": 357904
     },
     {
       "title": "A Study in Scarlet",
       "author": "Arthur Conan Doyle",
       "year": 2005,
       "rating": 4.13,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1519031842i/102868.jpg",
       "url": "https://www.goodreads.com/book/show/102868",
       "tags": [
         "crime",
@@ -1267,14 +1318,15 @@
         "community_picks"
       ],
       "description": "The unnamed narrator marries the dashing Maxim de Winter and moves into his imposing estate, Manderley. But the shadow of his beautiful first wife Rebecca hangs over everything—and the sinister housekeeper Mrs. Danvers ensures she is never forgotten.",
-      "pages": 391
+      "pages": 391,
+      "numberOfRatings": 501057
     },
     {
       "title": "A Suitable Boy",
       "author": "Vikram Seth",
       "year": 2005,
       "rating": 4.11,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1329421639i/50365.jpg",
       "url": "https://www.goodreads.com/book/show/50365",
       "tags": [
         "fiction"
@@ -1289,14 +1341,15 @@
         "WH Smith Literary Award",
         "Commonwealth Writers' Prize"
       ],
-      "series": "A Bridge of Leaves"
+      "series": "A Bridge of Leaves",
+      "numberOfRatings": 50314
     },
     {
       "title": "Don Quixote",
       "author": "Miguel de Cervantes",
       "year": 2005,
       "rating": 3.91,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1407710790i/3835.jpg",
       "url": "https://www.goodreads.com/book/show/3835",
       "tags": [
         "fiction"
@@ -1307,14 +1360,15 @@
       ],
       "description": "Edith Grossman's definitive English translation of the Spanish masterpiece. The adventures of the self-created knight-errant Don Quixote of La Mancha and his faithful squire, Sancho Panza, as they travel through sixteenth-century Spain—widely regarded as one of the funniest and most tragic books ever written.",
       "numberOfPages": 940,
-      "series": "Don Quijote de la Mancha"
+      "series": "Don Quijote de la Mancha",
+      "numberOfRatings": 309479
     },
     {
       "title": "And Then There Were None",
       "author": "Agatha Christie",
       "year": 2004,
       "rating": 4.27,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1638425885i/16299.jpg",
       "url": "https://www.goodreads.com/book/show/16299",
       "tags": [
         "mystery",
@@ -1326,14 +1380,15 @@
       ],
       "description": "On the morning of their fifth wedding anniversary, Nick Dunne's wife Amy disappears. The police immediately suspect Nick. But as clues emerge, the marriage begins to unravel—and neither Nick's story nor Amy's diary can be trusted. A razor-sharp thriller about the lies we tell each other and ourselves.",
       "awards": [],
-      "pages": 422
+      "pages": 422,
+      "numberOfRatings": 1651990
     },
     {
       "title": "Cloud Atlas",
       "author": "David Mitchell",
       "year": 2004,
       "rating": 4.01,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1563042852i/49628.jpg",
       "url": "https://www.goodreads.com/book/show/49628",
       "tags": [
         "fiction"
@@ -1349,14 +1404,15 @@
         "Nebula Award",
         "Arthur C. Clarke Award",
         "National Book Critics Circle Award"
-      ]
+      ],
+      "numberOfRatings": 270948
     },
     {
       "title": "David Copperfield",
       "author": "Charles Dickens",
       "year": 2004,
       "rating": 4.05,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1461452762i/58696.jpg",
       "url": "https://www.goodreads.com/book/show/58696",
       "tags": [
         "fiction"
@@ -1369,14 +1425,15 @@
       "numberOfPages": 882,
       "awards": [
         "Audie Award"
-      ]
+      ],
+      "numberOfRatings": 261992
     },
     {
       "title": "Jonathan Strange & Mr Norrell",
       "author": "Susanna Clarke",
       "year": 2004,
       "rating": 3.87,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1386743825i/76852.jpg",
       "url": "https://www.goodreads.com/book/show/76852",
       "tags": [
         "fiction"
@@ -1393,14 +1450,15 @@
         "Nebula Award",
         "World Fantasy Award"
       ],
-      "series": "Strange & Norrell"
+      "series": "Strange & Norrell",
+      "numberOfRatings": 258014
     },
     {
       "title": "The Secret History",
       "author": "Donna Tartt",
       "year": 2004,
       "rating": 4.15,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751820530i/29044.jpg",
       "url": "https://www.goodreads.com/book/show/29044",
       "tags": [
         "fiction"
@@ -1410,14 +1468,15 @@
         "marathon_reader"
       ],
       "description": "Under their charismatic classics professor, a group of clever misfits at an elite New England college discover a way of living that is a world away from their contemporaries. When they go beyond normal morality, they slip gradually into corruption and evil.",
-      "numberOfPages": 559
+      "numberOfPages": 559,
+      "numberOfRatings": 1064752
     },
     {
       "title": "North and South",
       "author": "Elizabeth Gaskell",
       "year": 2003,
       "rating": 4.15,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1391158399i/512710.jpg",
       "url": "https://www.goodreads.com/book/show/512710",
       "tags": [
         "fiction"
@@ -1427,14 +1486,15 @@
         "marathon_reader"
       ],
       "description": "When her father leaves the Church, Margaret Hale is uprooted to the industrial town of Milton. She develops a passionate sense of social justice—and a tempestuous relationship with mill-owner John Thornton, whose treatment of employees she opposes.",
-      "numberOfPages": 496
+      "numberOfPages": 496,
+      "numberOfRatings": 185614
     },
     {
       "title": "The Count of Monte Cristo",
       "author": "Alexandre Dumas",
       "year": 2003,
       "rating": 4.33,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1724863997i/7126.jpg",
       "url": "https://www.goodreads.com/book/show/7126",
       "tags": [
         "fiction"
@@ -1445,14 +1505,15 @@
       ],
       "description": "Thrown in prison for a crime he has not committed, Edmond Dantes learns of a great treasure and becomes determined not only to escape but to destroy the three men responsible for his imprisonment.",
       "numberOfPages": 1276,
-      "series": "Le Comte de Monte-Cristo / The Count of Monte Cristo"
+      "series": "Le Comte de Monte-Cristo / The Count of Monte Cristo",
+      "numberOfRatings": 1043925
     },
     {
       "title": "Bleak House",
       "author": "Charles Dickens",
       "year": 2002,
       "rating": 4.02,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922975i/1984.jpg",
       "url": "https://www.goodreads.com/book/show/1984",
       "tags": [
         "fiction"
@@ -1462,14 +1523,15 @@
         "marathon_reader"
       ],
       "description": "Dickens's masterpiece centers on the generations-long lawsuit Jarndyce and Jarndyce, through which 'whole families have inherited legendary hatreds.' Esther Summerson's romantic coming-of-age and the gradual revelation of long-buried secrets unfold against the foggy backdrop of the Court of Chancery.",
-      "numberOfPages": 887
+      "numberOfPages": 887,
+      "numberOfRatings": 115310
     },
     {
       "title": "Perdido Street Station",
       "author": "China Miéville",
       "year": 2001,
       "rating": 3.98,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1320429669i/867383.jpg",
       "url": "https://www.goodreads.com/book/show/867383",
       "tags": [
         "fiction"
@@ -1486,14 +1548,15 @@
         "Locus Award",
         "Arthur C. Clarke Award"
       ],
-      "series": "New Crobuzon"
+      "series": "New Crobuzon",
+      "numberOfRatings": 76201
     },
     {
       "title": "The Amazing Adventures of Kavalier & Clay",
       "author": "Michael Chabon",
       "year": 2001,
       "rating": 4.19,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1503806495i/3985.jpg",
       "url": "https://www.goodreads.com/book/show/3985",
       "tags": [
         "fiction"
@@ -1508,14 +1571,15 @@
         "Pulitzer Prize",
         "PEN/Faulkner Award for Fiction",
         "California Book Award"
-      ]
+      ],
+      "numberOfRatings": 214332
     },
     {
       "title": "The Blind Assassin",
       "author": "Margaret Atwood",
       "year": 2001,
       "rating": 3.96,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1451445426i/78433.jpg",
       "url": "https://www.goodreads.com/book/show/78433",
       "tags": [
         "fiction"
@@ -1529,14 +1593,15 @@
       "awards": [
         "Booker Prize",
         "Orange Prize"
-      ]
+      ],
+      "numberOfRatings": 164832
     },
     {
       "title": "The Hound of the Baskervilles",
       "author": "Arthur Conan Doyle",
       "year": 2001,
       "rating": 4.14,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1355929358i/8921.jpg",
       "url": "https://www.goodreads.com/book/show/8921",
       "tags": [
         "crime",
@@ -1548,14 +1613,15 @@
       ],
       "description": "In 1935, thirteen-year-old Briony Tallis witnesses events she doesn't fully understand, then makes an accusation that shatters three lives. Decades later, she grapples with her guilt in one of the twentieth century's great novels about war, love, and the unreliability of memory.",
       "awards": [],
-      "pages": 351
+      "pages": 351,
+      "numberOfRatings": 394071
     },
     {
       "title": "Villette",
       "author": "Charlotte Brontë",
       "year": 2001,
       "rating": 3.78,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1320412741i/31173.jpg",
       "url": "https://www.goodreads.com/book/show/31173",
       "tags": [
         "fiction"
@@ -1565,14 +1631,15 @@
         "marathon_reader"
       ],
       "description": "Lucy Snowe flees England and a tragic past to become an instructor in a French boarding school in Villette. There she unexpectedly confronts feelings of love and longing—and the heartache she has tried so long to escape. Brontë's most accomplished work.",
-      "numberOfPages": 573
+      "numberOfPages": 573,
+      "numberOfRatings": 81978
     },
     {
       "title": "House of Leaves",
       "author": "Mark Z. Danielewski",
       "year": 2000,
       "rating": 4.09,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1494697179i/337907.jpg",
       "url": "https://www.goodreads.com/book/show/337907",
       "tags": [
         "fiction"
@@ -1582,14 +1649,15 @@
         "marathon_reader"
       ],
       "description": "A young family moves into a small home on Ash Tree Lane where they discover their house is bigger on the inside than on the outside. The consequences of that impossibility prove impossible to face.",
-      "numberOfPages": 709
+      "numberOfPages": 709,
+      "numberOfRatings": 205237
     },
     {
       "title": "Cryptonomicon",
       "author": "Neal Stephenson",
       "year": 1999,
       "rating": 4.23,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1386923969i/77584.jpg",
       "url": "https://www.goodreads.com/book/show/77584",
       "tags": [
         "fiction"
@@ -1604,14 +1672,15 @@
         "Hugo Award",
         "Locus Award",
         "Prometheus Award"
-      ]
+      ],
+      "numberOfRatings": 117521
     },
     {
       "title": "The Adventures of Sherlock Holmes",
       "author": "Arthur Conan Doyle",
       "year": 1998,
       "rating": 4.3,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1164045516i/3590.jpg",
       "url": "https://www.goodreads.com/book/show/3590",
       "tags": [
         "crime",
@@ -1622,14 +1691,15 @@
         "community_picks"
       ],
       "description": "Under the influence of their charismatic classics professor, a small group of eccentric students discover the allure of darkness and lose their grip on reality—ultimately committing an act that forever alters their lives.",
-      "pages": 524
+      "pages": 524,
+      "numberOfRatings": 329470
     },
     {
       "title": "The Name of the Rose",
       "author": "Umberto Eco",
       "year": 1994,
       "rating": 4.14,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1415375471i/119073.jpg",
       "url": "https://www.goodreads.com/book/show/119073",
       "tags": [
         "fiction"
@@ -1644,14 +1714,15 @@
         "CWA New Blood Dagger",
         "Premio Strega",
         "Edgar Award"
-      ]
+      ],
+      "numberOfRatings": 399750
     },
     {
       "title": "Crime and Punishment",
       "author": "Fyodor Dostoevsky",
       "year": 1993,
       "rating": 4.29,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1657562532i/17879.jpg",
       "url": "https://www.goodreads.com/book/show/17879",
       "tags": [
         "fiction"
@@ -1659,14 +1730,15 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "numberOfRatings": 1109911
     },
     {
       "title": "Almanac of the Dead",
       "author": "Leslie Marmon Silko",
       "year": 1992,
       "rating": 3.95,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924233i/52385.jpg",
       "url": "https://www.goodreads.com/book/show/52385",
       "tags": [
         "fiction"
@@ -1674,14 +1746,15 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "numberOfRatings": 3225
     },
     {
       "title": "Doomsday Book",
       "author": "Connie Willis",
       "year": 1992,
       "rating": 4.03,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1403972500i/24983.jpg",
       "url": "https://www.goodreads.com/book/show/24983",
       "tags": [
         "fiction"
@@ -1698,14 +1771,15 @@
         "Locus Award",
         "Arthur C. Clarke Award"
       ],
-      "series": "Oxford Time Travel"
+      "series": "Oxford Time Travel",
+      "numberOfRatings": 65560
     },
     {
       "title": "Possession",
       "author": "A.S. Byatt",
       "year": 1991,
       "rating": 3.9,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1386146938i/19172275.jpg",
       "url": "https://www.goodreads.com/book/show/19172275",
       "tags": [
         "fiction"
@@ -1720,14 +1794,15 @@
         "Booker Prize",
         "Orange Prize",
         "Commonwealth Writers' Prize"
-      ]
+      ],
+      "numberOfRatings": 85145
     },
     {
       "title": "The Stand",
       "author": "Stephen King",
       "year": 1990,
       "rating": 4.35,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1213131305i/149267.jpg",
       "url": "https://www.goodreads.com/book/show/149267",
       "tags": [
         "fiction"
@@ -1741,14 +1816,15 @@
       "awards": [
         "Locus Award",
         "World Fantasy Award"
-      ]
+      ],
+      "numberOfRatings": 845681
     },
     {
       "title": "Ulysses",
       "author": "James Joyce",
       "year": 1990,
       "rating": 3.76,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1756682514i/338798.jpg",
       "url": "https://www.goodreads.com/book/show/338798",
       "tags": [
         "fiction"
@@ -1756,14 +1832,15 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "numberOfRatings": 139398
     },
     {
       "title": "Les Misérables",
       "author": "Victor Hugo",
       "year": 1987,
       "rating": 4.21,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1411852091i/24280.jpg",
       "url": "https://www.goodreads.com/book/show/24280",
       "tags": [
         "fiction"
@@ -1773,14 +1850,15 @@
         "marathon_reader"
       ],
       "description": "Jean Valjean, an escaped convict, is determined to put his criminal past behind him. But he is haunted by his own conscience and the relentless investigations of Inspector Javert—and by his oath to protect the baby daughter of Fantine.",
-      "numberOfPages": 1463
+      "numberOfPages": 1463,
+      "numberOfRatings": 851072
     },
     {
       "title": "Death on the Nile",
       "author": "Agatha Christie",
       "year": 1978,
       "rating": 4.12,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1486837149i/131359.jpg",
       "url": "https://www.goodreads.com/book/show/131359",
       "tags": [
         "crime",
@@ -1793,7 +1871,8 @@
       "description": "The tranquility of a Nile cruise is shattered when Linnet Ridgeway is found shot dead. She was young, beautiful, and had everything—until she lost her life. Hercule Poirot is on holiday, but nothing is ever quite what it seems in this classic Agatha Christie mystery.",
       "series": "Hercule Poirot",
       "pages": 352,
-      "numberOfPages": 352
+      "numberOfPages": 352,
+      "numberOfRatings": 313436
     },
     {
       "title": "101 Horror Books to Read Before You're Murdered",
@@ -1931,9 +2010,9 @@
     {
       "title": "A Lady for a Duke",
       "author": "Alexis Hall",
-      "year": 0,
+      "year": 2022,
       "rating": 4.05,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1646064290i/57007967.jpg",
       "url": "https://www.goodreads.com/book/show/57007967",
       "tags": [
         "fiction"
@@ -1946,7 +2025,8 @@
       "numberOfPages": 460,
       "awards": [
         "Swoon Award"
-      ]
+      ],
+      "numberOfRatings": 17555
     },
     {
       "title": "A Lady for All Seasons",
@@ -2030,9 +2110,9 @@
     {
       "title": "A Swim in a Pond in the Rain",
       "author": "George Saunders",
-      "year": 0,
+      "year": 2021,
       "rating": 4.53,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1627489209i/53487237.jpg",
       "url": "https://www.goodreads.com/book/show/53487237",
       "tags": [
         "books-about-books"
@@ -2046,7 +2126,8 @@
       "awards": [
         "PEN/Diamonstein-Spielvogel Award for the Art of the Essay",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 25886
     },
     {
       "title": "A Vow in Vengeance",
@@ -2130,7 +2211,7 @@
     {
       "title": "All the Colors of the Dark",
       "author": "Chris Whitaker",
-      "year": 0,
+      "year": 2024,
       "rating": 4.24,
       "cover": "",
       "url": "https://www.goodreads.com/book/show/203019740",
@@ -2147,14 +2228,15 @@
         "Barry Award",
         "British Book Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 485059
     },
     {
       "title": "All the Dangerous Things",
       "author": "Stacy Willingham",
-      "year": 0,
+      "year": 2023,
       "rating": 4.04,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1652631076i/60784636.jpg",
       "url": "https://www.goodreads.com/book/show/60784636",
       "tags": [
         "mystery",
@@ -2168,7 +2250,8 @@
       "numberOfPages": 326,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 284336
     },
     {
       "title": "All the Sinners Bleed",
@@ -2274,9 +2357,9 @@
     {
       "title": "Anatomy of an Alibi",
       "author": "Jo Spain",
-      "year": 0,
+      "year": 2026,
       "rating": 3.83,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1755269338i/239052933.jpg",
       "url": "https://www.goodreads.com/book/show/239052933",
       "tags": [
         "mystery",
@@ -2289,7 +2372,8 @@
       ],
       "description": "Camille Bayliss believes her lawyer husband has been hiding dirty secrets for years. Aubrey Price has been haunted by a terrible night a decade ago. The two women hatch a plan: Aubrey will take Camille's place for twelve hours. The next morning, Ben is found murdered—and only one of them has an alibi.",
       "pages": 340,
-      "numberOfPages": 340
+      "numberOfPages": 340,
+      "numberOfRatings": 101990
     },
     {
       "title": "August Lane",
@@ -2330,9 +2414,9 @@
     {
       "title": "Babel",
       "author": "R.F. Kuang",
-      "year": 0,
+      "year": 2022,
       "rating": 4.14,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1677361825i/57945316.jpg",
       "url": "https://www.goodreads.com/book/show/57945316",
       "tags": [
         "fiction"
@@ -2349,7 +2433,8 @@
         "World Fantasy Award",
         "British Book Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 499737
     },
     {
       "title": "Bad Indians Book Club",
@@ -2524,9 +2609,9 @@
     {
       "title": "Black AF History",
       "author": "Michael Harriot",
-      "year": 0,
+      "year": 2023,
       "rating": 4.6,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1623377719i/55959466.jpg",
       "url": "https://www.goodreads.com/book/show/55959466",
       "tags": [
         "fiction"
@@ -2540,7 +2625,8 @@
       "awards": [
         "Goodreads Choice Award",
         "NAACP Image Award"
-      ]
+      ],
+      "numberOfRatings": 9967
     },
     {
       "title": "Black-Owned",
@@ -2584,9 +2670,9 @@
     {
       "title": "Book Lovers",
       "author": "Emily Henry",
-      "year": 0,
+      "year": 2022,
       "rating": 4.09,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1638867089i/58690308.jpg",
       "url": "https://www.goodreads.com/book/show/58690308",
       "tags": [
         "books-about-books"
@@ -2599,7 +2685,8 @@
       "numberOfPages": 377,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 1605949
     },
     {
       "title": "Book of Forbidden Words",
@@ -2661,9 +2748,9 @@
     {
       "title": "Bride",
       "author": "Ali Hazelwood",
-      "year": 0,
+      "year": 2024,
       "rating": 3.99,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1730451646i/181344829.jpg",
       "url": "https://www.goodreads.com/book/show/181344829",
       "tags": [
         "fiction"
@@ -2677,7 +2764,8 @@
       "awards": [
         "Goodreads Choice Award"
       ],
-      "series": "Bride"
+      "series": "Bride",
+      "numberOfRatings": 731499
     },
     {
       "title": "Brigands & Breadknives",
@@ -2701,9 +2789,9 @@
     {
       "title": "Bright Young Women",
       "author": "Jessica Knoll",
-      "year": 0,
+      "year": 2023,
       "rating": 3.98,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1676221840i/101124639.jpg",
       "url": "https://www.goodreads.com/book/show/101124639",
       "tags": [
         "historical",
@@ -2719,7 +2807,8 @@
       "awards": [
         "Edgar Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 233790
     },
     {
       "title": "Buckeye",
@@ -2844,9 +2933,9 @@
     {
       "title": "Careless People",
       "author": "Sarah Wynn-Williams",
-      "year": 0,
+      "year": 2025,
       "rating": 4.13,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1742029683i/223436601.jpg",
       "url": "https://www.goodreads.com/book/show/223436601",
       "tags": [
         "fiction"
@@ -2859,7 +2948,8 @@
       "numberOfPages": 382,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 117179
     },
     {
       "title": "Challenger: A True Story",
@@ -2925,9 +3015,9 @@
     {
       "title": "Cloud Cuckoo Land",
       "author": "Anthony Doerr",
-      "year": 0,
+      "year": 2021,
       "rating": 4.25,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1618589128i/56783258.jpg",
       "url": "https://www.goodreads.com/book/show/56783258",
       "tags": [
         "books-about-books"
@@ -2944,14 +3034,15 @@
         "British Book Award",
         "Dayton Literary Peace Prize",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 273107
     },
     {
       "title": "Cobalt Red",
       "author": "Siddharth Kara",
-      "year": 0,
+      "year": 2023,
       "rating": 4.36,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1666032360i/60784614.jpg",
       "url": "https://www.goodreads.com/book/show/60784614",
       "tags": [
         "fiction"
@@ -2966,7 +3057,8 @@
         "Pulitzer Prize",
         "Financial Times Business Book of the Year",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 17483
     },
     {
       "title": "Coffin Moon",
@@ -2992,9 +3084,9 @@
     {
       "title": "Colored Television",
       "author": "Danzy Senna",
-      "year": 0,
+      "year": 2024,
       "rating": 3.53,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1707408098i/201102398.jpg",
       "url": "https://www.goodreads.com/book/show/201102398",
       "tags": [
         "books-about-books"
@@ -3008,14 +3100,15 @@
       "awards": [
         "PEN/Faulkner Award for Fiction",
         "California Book Award"
-      ]
+      ],
+      "numberOfRatings": 25948
     },
     {
       "title": "Crying in H Mart",
       "author": "Michelle Zauner",
-      "year": 0,
+      "year": 2021,
       "rating": 4.23,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1601937850i/54814676.jpg",
       "url": "https://www.goodreads.com/book/show/54814676",
       "tags": [
         "fiction"
@@ -3029,7 +3122,8 @@
       "awards": [
         "NAIBA Book of the Year",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 618182
     },
     {
       "title": "Cursed Daughters",
@@ -3085,9 +3179,9 @@
     {
       "title": "Darling Girls",
       "author": "Sally Hepworth",
-      "year": 0,
+      "year": 2024,
       "rating": 3.99,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1688420257i/127280429.jpg",
       "url": "https://www.goodreads.com/book/show/127280429",
       "tags": [
         "thriller"
@@ -3099,7 +3193,8 @@
       "description": "Jessica, Norah, and Alicia were told how lucky they were to be rescued as young girls by foster mother Miss Fairchild. But their childhood wasn't the fairy tale everyone thinks. When a body is discovered under the home they grew up in, the sisters find themselves key witnesses—or prime suspects.",
       "awards": [],
       "pages": 359,
-      "numberOfPages": 359
+      "numberOfPages": 359,
+      "numberOfRatings": 224657
     },
     {
       "title": "Dead in the Water",
@@ -3122,9 +3217,9 @@
     {
       "title": "Dear Debbie",
       "author": "Elin Hilderbrand",
-      "year": 0,
+      "year": 2026,
       "rating": 3.99,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1774686324i/238365535.jpg",
       "url": "https://www.goodreads.com/book/show/238365535",
       "tags": [
         "cozy",
@@ -3137,14 +3232,15 @@
       ],
       "description": "Debbie Mullen has spent years dispensing advice in her column Dear Debbie—until her own life starts spiraling. She just lost her job, something strange is happening with her daughters, and her husband is keeping secrets. Now Debbie's done being the bigger person. It's time to take her own advice. A subversive thriller about women finally choosing to take justice into their own hands.",
       "pages": 336,
-      "numberOfPages": 336
+      "numberOfPages": 336,
+      "numberOfRatings": 357678
     },
     {
       "title": "Demon Copperhead",
       "author": "Barbara Kingsolver",
-      "year": 0,
+      "year": 2022,
       "rating": 4.46,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1660050779i/60194162.jpg",
       "url": "https://www.goodreads.com/book/show/60194162",
       "tags": [
         "fiction"
@@ -3162,7 +3258,8 @@
         "British Book Award",
         "Women's Prize for Fiction",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 836623
     },
     {
       "title": "Detour",
@@ -3204,9 +3301,9 @@
     {
       "title": "Don't Let Him In",
       "author": "Sophie Hannah",
-      "year": 0,
+      "year": 2025,
       "rating": 3.76,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1730151826i/220160814.jpg",
       "url": "https://www.goodreads.com/book/show/220160814",
       "tags": [
         "psychological-thriller",
@@ -3215,14 +3312,15 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 217092
     },
     {
       "title": "Doppelganger",
       "author": "Naomi Klein",
-      "year": 0,
+      "year": 2023,
       "rating": 4.19,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1689105362i/138505710.jpg",
       "url": "https://www.goodreads.com/book/show/138505710",
       "tags": [
         "fiction"
@@ -3236,14 +3334,15 @@
       "awards": [
         "National Book Critics Circle Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 37904
     },
     {
       "title": "East of Eden",
       "author": "John Steinbeck",
-      "year": 0,
+      "year": 1952,
       "rating": 4.44,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1621953646i/55378851.jpg",
       "url": "https://www.goodreads.com/book/show/55378851",
       "tags": [
         "fiction"
@@ -3256,7 +3355,8 @@
       "numberOfPages": 620,
       "awards": [
         "National Book Award Finalist"
-      ]
+      ],
+      "numberOfRatings": 662370
     },
     {
       "title": "End of Days",
@@ -3313,9 +3413,9 @@
     {
       "title": "Everyone on This Train Is a Suspect",
       "author": "Benjamin Stevenson",
-      "year": 0,
+      "year": 2023,
       "rating": 3.82,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1692905897i/167006698.jpg",
       "url": "https://www.goodreads.com/book/show/167006698",
       "tags": [
         "books-about-books"
@@ -3329,7 +3429,8 @@
       "awards": [
         "Australian Book Industry Award (ABIA)"
       ],
-      "series": "Ernest Cunningham"
+      "series": "Ernest Cunningham",
+      "numberOfRatings": 90425
     },
     {
       "title": "Everything Is Tuberculosis",
@@ -3487,9 +3588,9 @@
     {
       "title": "Fingersmith",
       "author": "Sarah Waters",
-      "year": 0,
+      "year": 2002,
       "rating": 4.02,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1658183600i/48730027.jpg",
       "url": "https://www.goodreads.com/book/show/48730027",
       "tags": [
         "fiction"
@@ -3504,14 +3605,15 @@
         "Booker Prize",
         "Stonewall Book Award",
         "Orange Prize"
-      ]
+      ],
+      "numberOfRatings": 120521
     },
     {
       "title": "First Lie Wins",
       "author": "Ashley Elston",
-      "year": 0,
+      "year": 2024,
       "rating": 3.99,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704216161i/164444179.jpg",
       "url": "https://www.goodreads.com/book/show/164444179",
       "tags": [
         "thriller"
@@ -3523,7 +3625,8 @@
       "description": "Evie Porter has everything a nice Southern girl could want—a doting boyfriend, a white picket fence, a tight group of friends. The only catch: Evie Porter doesn't exist. She's an operative whose latest job is getting close to Ryan Sumner—until she starts to want something different for herself.",
       "awards": [],
       "pages": 340,
-      "numberOfPages": 340
+      "numberOfPages": 340,
+      "numberOfRatings": 826390
     },
     {
       "title": "Football",
@@ -3546,9 +3649,9 @@
     {
       "title": "Forget Me Not",
       "author": "Stacy Willingham",
-      "year": 0,
+      "year": 2025,
       "rating": 3.77,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1730123356i/217387937.jpg",
       "url": "https://www.goodreads.com/book/show/217387937",
       "tags": [
         "mystery",
@@ -3559,14 +3662,15 @@
         "community_picks"
       ],
       "description": "Claire Campbell's older sister Natalie disappeared twenty-two years ago. When her father forces her to come back home, Claire accepts a job at Galloway Farm, a muscadine vineyard where her sister seemed truly happy before she vanished. She stumbles across an old diary—and begins to suspect her sister's disappearance may be tied to it.",
-      "numberOfPages": 325
+      "numberOfPages": 325,
+      "numberOfRatings": 68649
     },
     {
       "title": "Funny Story",
       "author": "Emily Henry",
-      "year": 0,
+      "year": 2024,
       "rating": 4.18,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1691777485i/194802722.jpg",
       "url": "https://www.goodreads.com/book/show/194802722",
       "tags": [
         "fiction"
@@ -3579,7 +3683,8 @@
       "numberOfPages": 395,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 1346538
     },
     {
       "title": "Gather Me",
@@ -3697,9 +3802,9 @@
     {
       "title": "Great Circle",
       "author": "Maggie Shipstead",
-      "year": 0,
+      "year": 2021,
       "rating": 4.09,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603740174i/54976986.jpg",
       "url": "https://www.goodreads.com/book/show/54976986",
       "tags": [
         "fiction"
@@ -3715,7 +3820,8 @@
         "Women's Prize for Fiction",
         "Andrew Carnegie Medal",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 84132
     },
     {
       "title": "Half City",
@@ -3757,9 +3863,9 @@
     {
       "title": "Happiness Falls",
       "author": "Angie Kim",
-      "year": 0,
+      "year": 2023,
       "rating": 3.73,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1693315671i/75495002.jpg",
       "url": "https://www.goodreads.com/book/show/75495002",
       "tags": [
         "fiction"
@@ -3772,7 +3878,8 @@
       "numberOfPages": 387,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 90813
     },
     {
       "title": "Harlem Rhapsody",
@@ -3798,9 +3905,9 @@
     {
       "title": "Harlem Shuffle",
       "author": "Colson Whitehead",
-      "year": 0,
+      "year": 2021,
       "rating": 3.73,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612449660i/54626223.jpg",
       "url": "https://www.goodreads.com/book/show/54626223",
       "tags": [
         "historical",
@@ -3818,7 +3925,8 @@
         "Kirkus Prize",
         "Goodreads Choice Award"
       ],
-      "series": "The Harlem Trilogy"
+      "series": "The Harlem Trilogy",
+      "numberOfRatings": 81952
     },
     {
       "title": "Hazelthorn",
@@ -3867,9 +3975,9 @@
     {
       "title": "Heartwood",
       "author": "James Lee Burke",
-      "year": 0,
+      "year": 2025,
       "rating": 3.91,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1742998309i/220259184.jpg",
       "url": "https://www.goodreads.com/book/show/220259184",
       "tags": [
         "crime"
@@ -3883,14 +3991,15 @@
       "numberOfPages": 309,
       "awards": [
         "Audie Award"
-      ]
+      ],
+      "numberOfRatings": 105321
     },
     {
       "title": "Her Last Breath",
       "author": "Gillian McAllister",
-      "year": 0,
+      "year": 2026,
       "rating": 4.2,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1755530429i/234313865.jpg",
       "url": "https://www.goodreads.com/book/show/234313865",
       "tags": [
         "thriller"
@@ -3902,7 +4011,8 @@
       ],
       "description": "After years of excuses, Tess has finally agreed to go caving with her best friend Allie. Deep underground, a stranger who claims to be a fellow caver harasses them—and retaliates. Twenty-four hours later, a hospitalized Tess uncovers shocking secrets about Allie's true past.",
       "pages": 323,
-      "numberOfPages": 323
+      "numberOfPages": 323,
+      "numberOfRatings": 13937
     },
     {
       "title": "Hijab Butch Blues",
@@ -3948,9 +4058,9 @@
     {
       "title": "Home Is Where the Bodies Are",
       "author": "Jeneva Rose",
-      "year": 0,
+      "year": 2024,
       "rating": 3.8,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1699642386i/194020321.jpg",
       "url": "https://www.goodreads.com/book/show/194020321",
       "tags": [
         "mystery",
@@ -3963,7 +4073,8 @@
       "description": "Three estranged siblings reunite to sort their mother's estate—and discover a VHS tape showing their father covered in blood, followed by a dead body and a pact to get rid of it. Now they must decide whether to leave the past in the past or uncover the dark secret their mother took to her grave.",
       "awards": [],
       "pages": 256,
-      "numberOfPages": 256
+      "numberOfPages": 256,
+      "numberOfRatings": 311133
     },
     {
       "title": "Homeschooled: A Memoir",
@@ -4007,9 +4118,9 @@
     {
       "title": "House of Sticks",
       "author": "Ly Tran",
-      "year": 0,
+      "year": 2021,
       "rating": 4.37,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1620572993i/55710553.jpg",
       "url": "https://www.goodreads.com/book/show/55710553",
       "tags": [
         "fiction"
@@ -4022,14 +4133,15 @@
       "numberOfPages": 368,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 5140
     },
     {
       "title": "How High We Go in the Dark",
       "author": "Sequoia Nagamatsu",
-      "year": 0,
+      "year": 2022,
       "rating": 3.81,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1627483822i/57850265.jpg",
       "url": "https://www.goodreads.com/book/show/57850265",
       "tags": [
         "fiction"
@@ -4044,14 +4156,15 @@
         "Locus Award",
         "Audie Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 72405
     },
     {
       "title": "How the Word Is Passed",
       "author": "Clint Smith",
-      "year": 0,
+      "year": 2021,
       "rating": 4.7,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603917194i/55643287.jpg",
       "url": "https://www.goodreads.com/book/show/55643287",
       "tags": [
         "fiction"
@@ -4066,14 +4179,15 @@
         "National Book Award",
         "National Book Critics Circle Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 40797
     },
     {
       "title": "How to Get Away with Murder",
       "author": "Harlan Coben",
-      "year": 0,
+      "year": 2026,
       "rating": 3.85,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747195058i/231126906.jpg",
       "url": "https://www.goodreads.com/book/show/231126906",
       "tags": [
         "thriller",
@@ -4087,7 +4201,8 @@
       ],
       "description": "Detective Inspector Samantha Hansen returns from leave to investigate a teenager's murder, whose only clue is a self-help book called How To Get Away With Murder. Its author claims to be the most successful serial killer of our time—which is why no one's ever heard of him.",
       "pages": 368,
-      "numberOfPages": 368
+      "numberOfPages": 368,
+      "numberOfRatings": 3468
     },
     {
       "title": "How to Kill a Guy in Ten Dates",
@@ -4149,9 +4264,9 @@
     {
       "title": "How to Read Now",
       "author": "Elaine Castillo",
-      "year": 0,
+      "year": 2022,
       "rating": 4.01,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1645472785i/60018643.jpg",
       "url": "https://www.goodreads.com/book/show/60018643",
       "tags": [
         "books-about-books"
@@ -4159,11 +4274,12 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "numberOfRatings": 2087
     },
     {
       "title": "How to Say Babylon",
-      "author": "",
+      "author": "Safiya Sinclair",
       "year": 2023,
       "rating": 4.43,
       "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1693419534i/62919742.jpg",
@@ -4313,9 +4429,9 @@
     {
       "title": "Ink Blood Sister Scribe",
       "author": "Emma Törzs",
-      "year": 0,
+      "year": 2023,
       "rating": 4.0,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1685457125i/62854842.jpg",
       "url": "https://www.goodreads.com/book/show/62854842",
       "tags": [
         "books-about-books"
@@ -4330,7 +4446,8 @@
         "Locus Award",
         "Mythopoeic Fantasy Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 64544
     },
     {
       "title": "Intermezzo",
@@ -4394,9 +4511,9 @@
     {
       "title": "It's Not Her",
       "author": "Sarah Pearse",
-      "year": 0,
+      "year": 2026,
       "rating": 3.99,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751999126i/230443142.jpg",
       "url": "https://www.goodreads.com/book/show/230443142",
       "tags": [
         "thriller"
@@ -4409,7 +4526,8 @@
       ],
       "description": "Courtney Gray's peaceful vacation turns into a nightmare when she discovers her brother and sister-in-law dead in their lakeside cottage. Her niece Reese is missing. As dark truths surface, Courtney races to uncover the terrible mystery—is Reese a victim or the killer?",
       "pages": 342,
-      "numberOfPages": 342
+      "numberOfPages": 342,
+      "numberOfRatings": 91208
     },
     {
       "title": "Jane and Dan at the End of the World",
@@ -4448,7 +4566,7 @@
       "author": "Charlotte Brontë",
       "year": 0,
       "rating": 4.16,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1637888171i/59701670.jpg",
       "url": "https://www.goodreads.com/book/show/59701670",
       "tags": [
         "fiction"
@@ -4461,7 +4579,8 @@
       "numberOfPages": 590,
       "awards": [
         "Audie Award"
-      ]
+      ],
+      "numberOfRatings": 2358798
     },
     {
       "title": "Judy Blume: A Life",
@@ -4541,9 +4660,9 @@
     {
       "title": "King of Ashes",
       "author": "James R. Benn",
-      "year": 0,
+      "year": 2025,
       "rating": 3.98,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1732223678i/219833252.jpg",
       "url": "https://www.goodreads.com/book/show/219833252",
       "tags": [
         "historical",
@@ -4561,7 +4680,8 @@
         "Audie Award",
         "Los Angeles Times Book Prize",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 70540
     },
     {
       "title": "King Sorrow",
@@ -4630,7 +4750,7 @@
     {
       "title": "Lessons in Chemistry",
       "author": "Bonnie Garmus",
-      "year": 0,
+      "year": 2022,
       "rating": 4.28,
       "cover": "",
       "url": "https://www.goodreads.com/book/show/58065033",
@@ -4640,7 +4760,8 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 1829871
     },
     {
       "title": "Let the Poets Govern",
@@ -4663,9 +4784,9 @@
     {
       "title": "Listen for the Lie",
       "author": "Amy Tintera",
-      "year": 0,
+      "year": 2024,
       "rating": 4.07,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1711398419i/127279000.jpg",
       "url": "https://www.goodreads.com/book/show/127279000",
       "tags": [
         "mystery",
@@ -4678,14 +4799,15 @@
       "description": "Lucy was found wandering covered in her best friend Savvy's blood—and everyone thinks she's a murderer. Years later, a hit true crime podcast investigates Savvy's murder. Lucy is forced to return to town to solve her friend's death, even if she is the one who did it.",
       "awards": [],
       "pages": 336,
-      "numberOfPages": 336
+      "numberOfPages": 336,
+      "numberOfRatings": 570635
     },
     {
       "title": "Little One",
       "author": "Rhiannon Navin",
-      "year": 0,
+      "year": 2026,
       "rating": 3.89,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754512542i/238142754.jpg",
       "url": "https://www.goodreads.com/book/show/238142754",
       "tags": [
         "psychological-thriller",
@@ -4698,7 +4820,8 @@
       ],
       "description": "A decade after abandoning a farm commune in central Florida, Catharine is forced to confront her past when a journalist starts asking too many questions—and she realizes he knows far more than he's letting on. She has one goal: find her sister, and keep her own secrets buried.",
       "pages": 320,
-      "numberOfPages": 320
+      "numberOfPages": 320,
+      "numberOfRatings": 5792
     },
     {
       "title": "Lone Women",
@@ -4726,9 +4849,9 @@
     {
       "title": "Lonesome Dove",
       "author": "Larry McMurtry",
-      "year": 0,
+      "year": 1985,
       "rating": 4.59,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1767217839i/56346987.jpg",
       "url": "https://www.goodreads.com/book/show/56346987",
       "tags": [
         "fiction"
@@ -4743,7 +4866,8 @@
         "Pulitzer Prize",
         "PEN/Faulkner Award for Fiction"
       ],
-      "series": "Lonesome Dove"
+      "series": "Lonesome Dove",
+      "numberOfRatings": 255361
     },
     {
       "title": "Lost Lambs",
@@ -4884,9 +5008,9 @@
     {
       "title": "Martyr!",
       "author": "Kaveh Akbar",
-      "year": 0,
+      "year": 2024,
       "rating": 4.15,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1683818219i/139400713.jpg",
       "url": "https://www.goodreads.com/book/show/139400713",
       "tags": [
         "fiction"
@@ -4902,7 +5026,8 @@
         "Andrew Carnegie Medal",
         "National Book Award Finalist",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 186191
     },
     {
       "title": "Mechanize My Hands to War",
@@ -4947,9 +5072,9 @@
     {
       "title": "Mexican Gothic",
       "author": "Silvia Moreno-Garcia",
-      "year": 0,
+      "year": 2020,
       "rating": 3.66,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1607462569i/53152636.jpg",
       "url": "https://www.goodreads.com/book/show/53152636",
       "tags": [
         "historical",
@@ -4962,14 +5087,15 @@
       "description": "After a frantic letter from her newly-wed cousin begging to be saved from a mysterious doom, Noemí Taboada heads to High Place—a remote house in the Mexican countryside. As she digs into the family's dark secrets, she finds herself increasingly unable to leave.",
       "awards": [],
       "pages": 320,
-      "numberOfPages": 320
+      "numberOfPages": 320,
+      "numberOfRatings": 451298
     },
     {
       "title": "Missing Sam",
       "author": "Susie Steiner",
-      "year": 0,
+      "year": 2026,
       "rating": 3.83,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750211638i/232884526.jpg",
       "url": "https://www.goodreads.com/book/show/232884526",
       "tags": [
         "crime"
@@ -4980,14 +5106,15 @@
       ],
       "description": "When Aliya's wife Samantha doesn't return from an early morning run, Aliya reports her missing—but as a gay and Muslim daughter of immigrants, she's immediately suspected. As everyone doubts her innocence, Aliya makes one wrong choice after another while Samantha strategizes her escape from captivity.",
       "pages": 320,
-      "numberOfPages": 320
+      "numberOfPages": 320,
+      "numberOfRatings": 1979
     },
     {
       "title": "Moby-Dick",
       "author": "Herman Melville",
       "year": 0,
       "rating": 3.57,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1635854549i/59450521.jpg",
       "url": "https://www.goodreads.com/book/show/59450521",
       "tags": [
         "fiction"
@@ -5000,7 +5127,8 @@
       "numberOfPages": 576,
       "awards": [
         "Audie Award"
-      ]
+      ],
+      "numberOfRatings": 622959
     },
     {
       "title": "Monstrilio",
@@ -5088,9 +5216,9 @@
     {
       "title": "My Husband's Wife",
       "author": "Jane Corry",
-      "year": 0,
+      "year": 2026,
       "rating": 4.08,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747668611i/231127462.jpg",
       "url": "https://www.goodreads.com/book/show/231127462",
       "tags": [
         "psychological-thriller",
@@ -5103,7 +5231,8 @@
       ],
       "description": "Eden Fox returns from a run to find her key doesn't fit her new home—and a woman eerily similar to her answers the door. Her husband insists the stranger is his wife. One house. One husband. Two women. Someone is lying. A mind-bending marriage thriller where nothing is as it seems.",
       "pages": 310,
-      "numberOfPages": 310
+      "numberOfPages": 310,
+      "numberOfRatings": 223380
     },
     {
       "title": "Nash Falls",
@@ -5127,9 +5256,9 @@
     {
       "title": "Native Son",
       "author": "Richard Wright",
-      "year": 0,
+      "year": 1940,
       "rating": 4.04,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1672838960i/75569005.jpg",
       "url": "https://www.goodreads.com/book/show/75569005",
       "tags": [
         "fiction"
@@ -5142,7 +5271,8 @@
       "numberOfPages": 544,
       "awards": [
         "New York Drama Critics' Circle Award"
-      ]
+      ],
+      "numberOfRatings": 105597
     },
     {
       "title": "Never Ever After",
@@ -5166,9 +5296,9 @@
     {
       "title": "Nightcrawling",
       "author": "Leila Mottley",
-      "year": 0,
+      "year": 2022,
       "rating": 3.95,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654709397i/58537371.jpg",
       "url": "https://www.goodreads.com/book/show/58537371",
       "tags": [
         "fiction"
@@ -5184,7 +5314,8 @@
         "Lambda Literary Award",
         "Hurston/Wright Legacy Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 62597
     },
     {
       "title": "No Matter What",
@@ -5252,9 +5383,9 @@
     {
       "title": "None of This Is True",
       "author": "Lisa Jewell",
-      "year": 0,
+      "year": 2023,
       "rating": 4.07,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1686092508i/62334530.jpg",
       "url": "https://www.goodreads.com/book/show/62334530",
       "tags": [
         "psychological-thriller",
@@ -5270,7 +5401,8 @@
         "British Book Award",
         "Audie Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 1144241
     },
     {
       "title": "Not in My Book",
@@ -5293,9 +5425,9 @@
     {
       "title": "Not Quite Dead Yet",
       "author": "Benjamin Stevenson",
-      "year": 0,
+      "year": 2025,
       "rating": 4.0,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739418770i/220223963.jpg",
       "url": "https://www.goodreads.com/book/show/220223963",
       "tags": [
         "cozy",
@@ -5308,7 +5440,8 @@
       "description": "Jet Mason suffers a catastrophic brain injury and is told she'll be dead within a week. She never thought of herself as having enemies. But now she looks at everyone in a new light—her family, her ex-best friend, her former boyfriend. She only has seven days to solve her own murder.",
       "awards": [],
       "pages": 392,
-      "numberOfPages": 392
+      "numberOfPages": 392,
+      "numberOfRatings": 186911
     },
     {
       "title": "Nothing Tastes as Good",
@@ -5354,9 +5487,9 @@
     {
       "title": "Olga Dies Dreaming",
       "author": "Xochitl Gonzalez",
-      "year": 0,
+      "year": 2022,
       "rating": 3.96,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1620085798i/57693171.jpg",
       "url": "https://www.goodreads.com/book/show/57693171",
       "tags": [
         "fiction"
@@ -5369,7 +5502,8 @@
       "numberOfPages": 369,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 79448
     },
     {
       "title": "On Morrison",
@@ -5465,9 +5599,9 @@
     {
       "title": "Orwell's Roses",
       "author": "Rebecca Solnit",
-      "year": 0,
+      "year": 2021,
       "rating": 4.16,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1632461388i/56557019.jpg",
       "url": "https://www.goodreads.com/book/show/56557019",
       "tags": [
         "books-about-books"
@@ -5482,14 +5616,15 @@
         "PEN/Jacqueline Bograd Weld Award for Biography",
         "Orwell Prize",
         "National Book Critics Circle Award"
-      ]
+      ],
+      "numberOfRatings": 4830
     },
     {
       "title": "Our Missing Hearts",
       "author": "Celeste Ng",
-      "year": 0,
+      "year": 2022,
       "rating": 3.79,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1664802258i/60149573.jpg",
       "url": "https://www.goodreads.com/book/show/60149573",
       "tags": [
         "books-about-books"
@@ -5502,14 +5637,15 @@
       "numberOfPages": 335,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 214344
     },
     {
       "title": "Our Share of Night",
       "author": "Mariana Enriquez",
-      "year": 0,
+      "year": 2019,
       "rating": 4.25,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1660429329i/61111034.jpg",
       "url": "https://www.goodreads.com/book/show/61111034",
       "tags": [
         "fiction"
@@ -5525,7 +5661,8 @@
         "Grand Prix de l'Imaginaire",
         "The Kitschies",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 65480
     },
     {
       "title": "Our Vicious Oaths",
@@ -5551,9 +5688,9 @@
     {
       "title": "Ours",
       "author": "Phillip B. Williams",
-      "year": 0,
+      "year": 2024,
       "rating": 3.81,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1690407478i/195095780.jpg",
       "url": "https://www.goodreads.com/book/show/195095780",
       "tags": [
         "fiction"
@@ -5563,7 +5700,8 @@
         "marathon_reader"
       ],
       "description": "Saint, a fearsome conjurer, annihilates plantations across Arkansas to rescue the enslaved. She brings those she has freed to a hidden town called Ours. But as her conjuring begins to betray her, leaving the town vulnerable, some wonder if safety is another form of bondage.",
-      "numberOfPages": 592
+      "numberOfPages": 592,
+      "numberOfRatings": 1607
     },
     {
       "title": "Paper Girl",
@@ -5648,9 +5786,9 @@
     {
       "title": "Poverty, by America",
       "author": "Matthew Desmond",
-      "year": 0,
+      "year": 2023,
       "rating": 4.27,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1665696294i/61358638.jpg",
       "url": "https://www.goodreads.com/book/show/61358638",
       "tags": [
         "fiction"
@@ -5664,12 +5802,13 @@
       "awards": [
         "Audie Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 64143
     },
     {
       "title": "Razorblade Tears",
       "author": "S.A. Cosby",
-      "year": 0,
+      "year": 2021,
       "rating": 4.12,
       "cover": "",
       "url": "https://www.goodreads.com/book/show/57660923",
@@ -5679,14 +5818,15 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 168970
     },
     {
       "title": "Read Dangerously",
       "author": "Azar Nafisi",
-      "year": 0,
+      "year": 2022,
       "rating": 4.04,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1606106741i/49867396.jpg",
       "url": "https://www.goodreads.com/book/show/49867396",
       "tags": [
         "books-about-books"
@@ -5695,7 +5835,8 @@
       "challenges": [
         "books_on_books"
       ],
-      "description": "What is the role of literature when the president wages war on writers? The connection between political strife and fiction? An author provides a resistance reading list and makes the case for literature in turbulent times."
+      "description": "What is the role of literature when the president wages war on writers? The connection between political strife and fiction? An author provides a resistance reading list and makes the case for literature in turbulent times.",
+      "numberOfRatings": 2161
     },
     {
       "title": "Remarkably Bright Creatures",
@@ -5735,9 +5876,9 @@
     {
       "title": "River of the Gods",
       "author": "Candice Millard",
-      "year": 0,
+      "year": 2022,
       "rating": 3.83,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1635789021i/58777696.jpg",
       "url": "https://www.goodreads.com/book/show/58777696",
       "tags": [
         "fiction"
@@ -5750,7 +5891,8 @@
       "numberOfPages": 349,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 17206
     },
     {
       "title": "Scream With Me",
@@ -5794,9 +5936,9 @@
     {
       "title": "Service Model",
       "author": "Charles Stross",
-      "year": 0,
+      "year": 2024,
       "rating": 4.04,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1698554344i/195790861.jpg",
       "url": "https://www.goodreads.com/book/show/195790861",
       "tags": [
         "fiction"
@@ -5812,14 +5954,15 @@
         "Locus Award",
         "Arthur C. Clarke Award"
       ],
-      "series": "Service Model"
+      "series": "Service Model",
+      "numberOfRatings": 21603
     },
     {
       "title": "She Didn't See It Coming",
       "author": "A.R. Torre",
-      "year": 0,
+      "year": 2025,
       "rating": 3.89,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1755209416i/220999092.jpg",
       "url": "https://www.goodreads.com/book/show/220999092",
       "tags": [
         "mystery",
@@ -5830,7 +5973,8 @@
         "community_picks"
       ],
       "description": "Bryden and Sam have a thriving marriage—lavish careers, a smart apartment, a cherished daughter. The perfect life for the perfect couple. Then Sam receives a call at his office: Bryden has failed to collect their daughter, and no one knows where she is. A gripping psychological thriller from the bestselling author of Everyone Here is Lying.",
-      "numberOfPages": 352
+      "numberOfPages": 352,
+      "numberOfRatings": 115720
     },
     {
       "title": "Shut Up and Read: A Memoir",
@@ -5937,9 +6081,9 @@
     {
       "title": "Strangers in the Villa",
       "author": "Shari Lapena",
-      "year": 0,
+      "year": 2026,
       "rating": 3.64,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751942729i/238142885.jpg",
       "url": "https://www.goodreads.com/book/show/238142885",
       "tags": [
         "thriller"
@@ -5950,7 +6094,8 @@
       ],
       "description": "Sydney and Curtis move to a remote villa in Spain to repair their marriage after his affair. When a pair of Australian travelers shows up in dire need of help, they invite the attractive couple to stay. As dark secrets come to light, their bond is tested—and not everyone will leave the villa alive.",
       "pages": 336,
-      "numberOfPages": 336
+      "numberOfPages": 336,
+      "numberOfRatings": 3921
     },
     {
       "title": "Strangers: A Memoir of Marriage",
@@ -6122,9 +6267,9 @@
     {
       "title": "The Bee Sting",
       "author": "Paul Murray",
-      "year": 0,
+      "year": 2023,
       "rating": 3.88,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1674502938i/62039166.jpg",
       "url": "https://www.goodreads.com/book/show/62039166",
       "tags": [
         "fiction"
@@ -6139,7 +6284,8 @@
         "Booker Prize",
         "Goodreads Choice Award",
         "Nero Book Award"
-      ]
+      ],
+      "numberOfRatings": 142483
     },
     {
       "title": "The Blueprint",
@@ -6178,9 +6324,9 @@
     {
       "title": "The Book Eaters",
       "author": "Sunyi Dean",
-      "year": 0,
+      "year": 2022,
       "rating": 3.61,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1634139994i/58724745.jpg",
       "url": "https://www.goodreads.com/book/show/58724745",
       "tags": [
         "books-about-books"
@@ -6188,14 +6334,15 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "numberOfRatings": 56862
     },
     {
       "title": "The Book of Form and Emptiness",
       "author": "Ruth Ozeki",
-      "year": 0,
+      "year": 2021,
       "rating": 4.01,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1623850374i/57004637.jpg",
       "url": "https://www.goodreads.com/book/show/57004637",
       "tags": [
         "books-about-books"
@@ -6209,7 +6356,8 @@
       "numberOfPages": 548,
       "awards": [
         "Women's Prize for Fiction"
-      ]
+      ],
+      "numberOfRatings": 39576
     },
     {
       "title": "The Book of Lost Hours",
@@ -6373,9 +6521,9 @@
     {
       "title": "The Boyfriend",
       "author": "Freida McFadden",
-      "year": 0,
+      "year": 2024,
       "rating": 4.03,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1711205083i/208503280.jpg",
       "url": "https://www.goodreads.com/book/show/208503280",
       "tags": [
         "psychological-thriller",
@@ -6384,14 +6532,15 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 1025547
     },
     {
       "title": "The Bright Sword",
       "author": "Lev Grossman",
-      "year": 0,
+      "year": 2024,
       "rating": 3.95,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1699329867i/201750794.jpg",
       "url": "https://www.goodreads.com/book/show/201750794",
       "tags": [
         "fiction"
@@ -6406,14 +6555,15 @@
         "Locus Award",
         "World Fantasy Award",
         "Audie Award"
-      ]
+      ],
+      "numberOfRatings": 24759
     },
     {
       "title": "The Brothers Karamazov",
       "author": "Fyodor Dostoevsky",
       "year": 0,
       "rating": 4.39,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1681758580i/62585959.jpg",
       "url": "https://www.goodreads.com/book/show/62585959",
       "tags": [
         "fiction"
@@ -6421,7 +6571,8 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "numberOfRatings": 397419
     },
     {
       "title": "The Buffalo Hunter Hunter",
@@ -6502,9 +6653,9 @@
     {
       "title": "The City and Its Uncertain Walls",
       "author": "Haruki Murakami",
-      "year": 0,
+      "year": 2023,
       "rating": 3.74,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1709742028i/209192695.jpg",
       "url": "https://www.goodreads.com/book/show/209192695",
       "tags": [
         "books-about-books"
@@ -6512,14 +6663,15 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "numberOfRatings": 41896
     },
     {
       "title": "The Covenant of Water",
       "author": "Abraham Verghese",
-      "year": 0,
+      "year": 2023,
       "rating": 4.41,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687600746i/180357146.jpg",
       "url": "https://www.goodreads.com/book/show/180357146",
       "tags": [
         "fiction"
@@ -6528,7 +6680,8 @@
       "challenges": [
         "marathon_reader",
         "editors_picks"
-      ]
+      ],
+      "numberOfRatings": 328119
     },
     {
       "title": "The Deluge",
@@ -6554,9 +6707,9 @@
     {
       "title": "The Demon of Unrest",
       "author": "Erik Larson",
-      "year": 0,
+      "year": 2024,
       "rating": 4.17,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697649165i/195608683.jpg",
       "url": "https://www.goodreads.com/book/show/195608683",
       "tags": [
         "fiction"
@@ -6570,7 +6723,8 @@
       "awards": [
         "Audie Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 59779
     },
     {
       "title": "The Devil Takes You Home",
@@ -6599,9 +6753,9 @@
     {
       "title": "The Disordered Cosmos",
       "author": "Chanda Prescod-Weinstein",
-      "year": 0,
+      "year": 2021,
       "rating": 4.1,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1594326004i/54455629.jpg",
       "url": "https://www.goodreads.com/book/show/54455629",
       "tags": [
         "fiction"
@@ -6615,7 +6769,8 @@
       "awards": [
         "Los Angeles Times Book Prize",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 4197
     },
     {
       "title": "The Ending Writes Itself",
@@ -6710,9 +6865,9 @@
     {
       "title": "The Frozen River",
       "author": "Ariel Lawhon",
-      "year": 0,
+      "year": 2023,
       "rating": 4.38,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1730395034i/112975658.jpg",
       "url": "https://www.goodreads.com/book/show/112975658",
       "tags": [
         "fiction"
@@ -6726,7 +6881,8 @@
       "awards": [
         "Goodreads Choice Award",
         "Dublin Literary Award"
-      ]
+      ],
+      "numberOfRatings": 619498
     },
     {
       "title": "The Gales of November",
@@ -6765,7 +6921,7 @@
     {
       "title": "The Ghostwriter",
       "author": "Freida McFadden",
-      "year": 0,
+      "year": 2025,
       "rating": 4.05,
       "cover": "",
       "url": "https://www.goodreads.com/book/show/234069612",
@@ -6778,12 +6934,13 @@
         "community_picks"
       ],
       "description": "Abby Hoffman has everything she ever wanted: a perfect marriage, a beautiful home, a career as a ghostwriter. But as she works on her latest project—a memoir for a reclusive bestselling author—she begins to see disturbing parallels between the author's past and her own life.",
-      "pages": 320
+      "pages": 320,
+      "numberOfRatings": 80735
     },
     {
       "title": "The God of the Woods",
       "author": "Liz Moore",
-      "year": 0,
+      "year": 2024,
       "rating": 4.1,
       "cover": "",
       "url": "https://www.goodreads.com/book/show/199700434",
@@ -6795,14 +6952,15 @@
       "challenges": [
         "community_picks",
         "editors_picks"
-      ]
+      ],
+      "numberOfRatings": 885650
     },
     {
       "title": "The Guest List",
       "author": "Lucy Foley",
-      "year": 0,
+      "year": 2020,
       "rating": 3.79,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1591461181i/52656911.jpg",
       "url": "https://www.goodreads.com/book/show/52656911",
       "tags": [
         "thriller"
@@ -6814,7 +6972,8 @@
       "description": "On an island off the coast of Ireland, guests gather for a glamorous wedding. The groom is a rising TV star; the bride a magazine publisher. But as the champagne flows, resentments begin to mingle with the reminiscences. And then someone turns up dead.",
       "awards": [],
       "pages": 319,
-      "numberOfPages": 319
+      "numberOfPages": 319,
+      "numberOfRatings": 1314869
     },
     {
       "title": "The Haunting of Paynes Hollow",
@@ -6835,9 +6994,9 @@
     {
       "title": "The Heart Principle",
       "author": "Helen Hoang",
-      "year": 0,
+      "year": 2021,
       "rating": 3.92,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1634059904i/50056075.jpg",
       "url": "https://www.goodreads.com/book/show/50056075",
       "tags": [
         "fiction"
@@ -6851,7 +7010,8 @@
       "awards": [
         "Goodreads Choice Award"
       ],
-      "series": "The Kiss Quotient"
+      "series": "The Kiss Quotient",
+      "numberOfRatings": 130600
     },
     {
       "title": "The House Saphir",
@@ -6874,9 +7034,9 @@
     {
       "title": "The Housemaid",
       "author": "Freida McFadden",
-      "year": 0,
+      "year": 2022,
       "rating": 4.27,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1646534743i/60556912.jpg",
       "url": "https://www.goodreads.com/book/show/60556912",
       "tags": [
         "psychological-thriller",
@@ -6890,7 +7050,8 @@
       "awards": [],
       "series": "The Housemaid",
       "pages": 329,
-      "numberOfPages": 329
+      "numberOfPages": 329,
+      "numberOfRatings": 3682490
     },
     {
       "title": "The Idea Machine",
@@ -6911,9 +7072,9 @@
     {
       "title": "The Impossible Fortune",
       "author": "Richard Osman",
-      "year": 0,
+      "year": 2025,
       "rating": 4.28,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1744232177i/222292420.jpg",
       "url": "https://www.goodreads.com/book/show/222292420",
       "tags": [
         "cozy",
@@ -6922,14 +7083,15 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 115895
     },
     {
       "title": "The Inheritance Games",
       "author": "Jennifer Lynn Barnes",
-      "year": 0,
+      "year": 2020,
       "rating": 4.12,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1587396413i/52439531.jpg",
       "url": "https://www.goodreads.com/book/show/52439531",
       "tags": [
         "mystery"
@@ -6942,14 +7104,15 @@
       "awards": [],
       "series": "The Inheritance Games",
       "pages": 386,
-      "numberOfPages": 386
+      "numberOfPages": 386,
+      "numberOfRatings": 1108256
     },
     {
       "title": "The Intruder",
       "author": "Freida McFadden",
-      "year": 0,
+      "year": 2025,
       "rating": 3.88,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747844349i/231819058.jpg",
       "url": "https://www.goodreads.com/book/show/231819058",
       "tags": [
         "psychological-thriller",
@@ -6958,7 +7121,8 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 399934
     },
     {
       "title": "The Iron Garden Sutra",
@@ -6979,9 +7143,9 @@
     {
       "title": "The It Girl",
       "author": "Ruth Ware",
-      "year": 0,
+      "year": 2022,
       "rating": 3.84,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1671400977i/59345249.jpg",
       "url": "https://www.goodreads.com/book/show/59345249",
       "tags": [
         "mystery",
@@ -6994,14 +7158,15 @@
       "description": "April was Oxford's ultimate It Girl—until she was murdered by a porter named John Neville. A decade later, a journalist presents new evidence that Neville may have been innocent. Hannah reconnects with old friends, only to realize they all have something to hide—including a murder.",
       "awards": [],
       "pages": 423,
-      "numberOfPages": 423
+      "numberOfPages": 423,
+      "numberOfRatings": 301492
     },
     {
       "title": "The Jasmine Throne",
       "author": "Tasha Suri",
-      "year": 0,
+      "year": 2021,
       "rating": 4.09,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603885729i/50523477.jpg",
       "url": "https://www.goodreads.com/book/show/50523477",
       "tags": [
         "fiction"
@@ -7016,14 +7181,15 @@
         "World Fantasy Award",
         "Goodreads Choice Award"
       ],
-      "series": "The Burning Kingdoms"
+      "series": "The Burning Kingdoms",
+      "numberOfRatings": 39531
     },
     {
       "title": "The Keeper",
       "author": "Tana French",
-      "year": 0,
+      "year": 2026,
       "rating": 4.41,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1757472113i/238227104.jpg",
       "url": "https://www.goodreads.com/book/show/238227104",
       "tags": [
         "crime"
@@ -7035,14 +7201,15 @@
       "description": "On a cold night in remote Ireland, a girl goes missing. Sweet, loving Rachel Holohan was about to be engaged—now she's dead in the river. Retired Chicago detective Cal Hooper has friends in this village, and he owes them loyalty. But uncovering the truth threatens to tear everything apart. The third and final Cal Hooper novel.",
       "series": "Cal Hooper",
       "pages": 496,
-      "numberOfPages": 496
+      "numberOfPages": 496,
+      "numberOfRatings": 5150
     },
     {
       "title": "The Last Murder at the End of the World",
       "author": "Stuart Turton",
-      "year": 0,
+      "year": 2024,
       "rating": 3.67,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1695302347i/136276877.jpg",
       "url": "https://www.goodreads.com/book/show/136276877",
       "tags": [
         "mystery",
@@ -7051,14 +7218,15 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 62948
     },
     {
       "title": "The Last Party",
       "author": "Clare Mackintosh",
-      "year": 0,
+      "year": 2024,
       "rating": 4.05,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1710368139i/205837684.jpg",
       "url": "https://www.goodreads.com/book/show/205837684",
       "tags": [
         "mystery",
@@ -7070,14 +7238,15 @@
       ],
       "description": "Perla Wultz has kept a decades-old crime as her dark obsession. A doctoral student interviewing the convicted killer is getting him to open up about the truth of what really happened. As past and present entwine, who's deceiving who—and who will be the next to die?",
       "pages": 349,
-      "numberOfPages": 349
+      "numberOfPages": 349,
+      "numberOfRatings": 105186
     },
     {
       "title": "The Last Thing He Told Me",
       "author": "Laura Dave",
-      "year": 0,
+      "year": 2021,
       "rating": 3.83,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603034599i/54981009.jpg",
       "url": "https://www.goodreads.com/book/show/54981009",
       "tags": [
         "thriller"
@@ -7090,7 +7259,8 @@
       "awards": [],
       "pages": 323,
       "numberOfPages": 307,
-      "series": "Hannah Hall"
+      "series": "Hannah Hall",
+      "numberOfRatings": 1175031
     },
     {
       "title": "The Last Word",
@@ -7116,9 +7286,9 @@
     {
       "title": "The Library of Fates",
       "author": "Aditi Khorana",
-      "year": 0,
+      "year": 2025,
       "rating": 3.48,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743915098i/223421690.jpg",
       "url": "https://www.goodreads.com/book/show/223421690",
       "tags": [
         "books-about-books"
@@ -7128,14 +7298,15 @@
         "books_on_books"
       ],
       "description": "Eleanor has spent her life as an apprentice at the Library of Fates. When her mentor dies and its rarest book—which predicts your future if you confess a past secret—goes missing, she must retrieve it with the mentor's estranged son, her old love.",
-      "numberOfPages": 320
+      "numberOfPages": 320,
+      "numberOfRatings": 1398
     },
     {
       "title": "The Lincoln Highway",
       "author": "Amor Towles",
-      "year": 0,
+      "year": 2021,
       "rating": 4.22,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633443634i/57109107.jpg",
       "url": "https://www.goodreads.com/book/show/57109107",
       "tags": [
         "fiction"
@@ -7143,7 +7314,8 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "numberOfRatings": 317687
     },
     {
       "title": "The Lion Women of Tehran",
@@ -7185,9 +7357,9 @@
     {
       "title": "The Lord of the Rings",
       "author": "J.R.R. Tolkien",
-      "year": 0,
+      "year": 1959,
       "rating": 4.54,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1635878473i/59522680.jpg",
       "url": "https://www.goodreads.com/book/show/59522680",
       "tags": [
         "fiction"
@@ -7195,7 +7367,8 @@
       "longBook": true,
       "challenges": [
         "marathon_reader"
-      ]
+      ],
+      "numberOfRatings": 738236
     },
     {
       "title": "The Lost Book of Elizabeth Barton",
@@ -7237,9 +7410,9 @@
     {
       "title": "The Love Songs of W.E.B. Du Bois",
       "author": "Honorée Fanonne Jeffers",
-      "year": 0,
+      "year": 2021,
       "rating": 4.5,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1629809930i/51183428.jpg",
       "url": "https://www.goodreads.com/book/show/51183428",
       "tags": [
         "fiction"
@@ -7255,7 +7428,8 @@
         "National Book Critics Circle Award",
         "Goodreads Choice Award",
         "NAACP Image Award"
-      ]
+      ],
+      "numberOfRatings": 42607
     },
     {
       "title": "The Mad Wife",
@@ -7278,9 +7452,9 @@
     {
       "title": "The Maid",
       "author": "Nita Prose",
-      "year": 0,
+      "year": 2022,
       "rating": 3.75,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1643228739i/55196813.jpg",
       "url": "https://www.goodreads.com/book/show/55196813",
       "tags": [
         "cozy",
@@ -7289,14 +7463,15 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 721853
     },
     {
       "title": "The Man Who Died Twice",
       "author": "Richard Osman",
-      "year": 0,
+      "year": 2021,
       "rating": 4.35,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1616100048i/55457493.jpg",
       "url": "https://www.goodreads.com/book/show/55457493",
       "tags": [
         "cozy",
@@ -7310,7 +7485,8 @@
       "awards": [],
       "series": "Thursday Murder Club",
       "pages": 422,
-      "numberOfPages": 422
+      "numberOfPages": 422,
+      "numberOfRatings": 364893
     },
     {
       "title": "The Merge",
@@ -7333,9 +7509,9 @@
     {
       "title": "The Message",
       "author": "Ta-Nehisi Coates",
-      "year": 0,
+      "year": 2024,
       "rating": 4.49,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1717094243i/210943364.jpg",
       "url": "https://www.goodreads.com/book/show/210943364",
       "tags": [
         "fiction"
@@ -7349,14 +7525,15 @@
       "awards": [
         "Los Angeles Times Book Prize",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 43759
     },
     {
       "title": "The Ministry for the Future",
       "author": "Kim Stanley Robinson",
-      "year": 0,
+      "year": 2020,
       "rating": 3.86,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1668935201i/50998056.jpg",
       "url": "https://www.goodreads.com/book/show/50998056",
       "tags": [
         "fiction"
@@ -7370,7 +7547,8 @@
       "awards": [
         "Locus Award",
         "Grand Prix de l'Imaginaire"
-      ]
+      ],
+      "numberOfRatings": 43484
     },
     {
       "title": "The Missing Pages",
@@ -7393,9 +7571,9 @@
     {
       "title": "The Most Wonderful Crime of the Year",
       "author": "Ally Carter",
-      "year": 0,
+      "year": 2024,
       "rating": 3.87,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1715612813i/199531989.jpg",
       "url": "https://www.goodreads.com/book/show/199531989",
       "tags": [
         "cozy",
@@ -7404,14 +7582,15 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 150947
     },
     {
       "title": "The Mysterious Affair at Styles",
       "author": "Agatha Christie",
-      "year": 0,
+      "year": 1920,
       "rating": 4.0,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1585632445i/52843028.jpg",
       "url": "https://www.goodreads.com/book/show/52843028",
       "tags": [
         "crime",
@@ -7425,7 +7604,8 @@
       "awards": [],
       "series": "Hercule Poirot",
       "pages": 174,
-      "numberOfPages": 174
+      "numberOfPages": 174,
+      "numberOfRatings": 518575
     },
     {
       "title": "The Neighbor Favor",
@@ -7481,9 +7661,9 @@
     {
       "title": "The Only One Left",
       "author": "Riley Sager",
-      "year": 0,
+      "year": 2023,
       "rating": 4.13,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1668181003i/62703226.jpg",
       "url": "https://www.goodreads.com/book/show/62703226",
       "tags": [
         "historical",
@@ -7494,14 +7674,15 @@
       "challenges": [
         "community_picks",
         "editors_picks"
-      ]
+      ],
+      "numberOfRatings": 652705
     },
     {
       "title": "The Other Valley",
       "author": "Scott Alexander Howard",
-      "year": 0,
+      "year": 2024,
       "rating": 3.88,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687105854i/176450755.jpg",
       "url": "https://www.goodreads.com/book/show/176450755",
       "tags": [
         "fiction"
@@ -7515,14 +7696,15 @@
       "awards": [
         "ALA Alex Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 25252
     },
     {
       "title": "The Paris Library",
       "author": "Janet Skeslien Charles",
-      "year": 0,
+      "year": 2021,
       "rating": 4.06,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1583066862i/52761909.jpg",
       "url": "https://www.goodreads.com/book/show/52761909",
       "tags": [
         "books-about-books"
@@ -7535,7 +7717,8 @@
       "numberOfPages": 368,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 148654
     },
     {
       "title": "The Parisian",
@@ -7578,9 +7761,9 @@
     {
       "title": "The Plot",
       "author": "Jean Hanff Korelitz",
-      "year": 0,
+      "year": 2021,
       "rating": 3.81,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1626185013i/55315487.jpg",
       "url": "https://www.goodreads.com/book/show/55315487",
       "tags": [
         "psychological-thriller",
@@ -7591,7 +7774,8 @@
       "challenges": [
         "community_picks",
         "books_on_books"
-      ]
+      ],
+      "numberOfRatings": 143132
     },
     {
       "title": "The Queens of Crime",
@@ -7633,9 +7817,9 @@
     {
       "title": "The Reading List",
       "author": "Sara Nisha Adams",
-      "year": 0,
+      "year": 2021,
       "rating": 4.06,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1611366574i/55276648.jpg",
       "url": "https://www.goodreads.com/book/show/55276648",
       "tags": [
         "books-about-books"
@@ -7648,7 +7832,8 @@
       "numberOfPages": 368,
       "awards": [
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 136756
     },
     {
       "title": "The Red Winter",
@@ -7686,9 +7871,9 @@
     {
       "title": "The Return of Ellie Black",
       "author": "Emilya Naymark",
-      "year": 0,
+      "year": 2024,
       "rating": 3.96,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1715178138i/199798460.jpg",
       "url": "https://www.goodreads.com/book/show/199798460",
       "tags": [
         "mystery",
@@ -7702,14 +7887,15 @@
       "description": "When teenager Ellie Black—missing for two years—surfaces alive in the woods, Detective Chelsey Calhoun is assigned the case. But Ellie won't say where she's been or who she's protecting. And if Chelsey can't unravel what happened, the next girl taken might not return.",
       "awards": [],
       "pages": 299,
-      "numberOfPages": 299
+      "numberOfPages": 299,
+      "numberOfRatings": 102789
     },
     {
       "title": "The Safekeep",
       "author": "Yael van der Wouden",
-      "year": 0,
+      "year": 2024,
       "rating": 4.06,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1698870566i/199798201.jpg",
       "url": "https://www.goodreads.com/book/show/199798201",
       "tags": [
         "fiction"
@@ -7725,7 +7911,8 @@
         "Lambda Literary Award",
         "Women's Prize for Fiction",
         "The Rooster -- The Morning News Tournament of Books"
-      ]
+      ],
+      "numberOfRatings": 123053
     },
     {
       "title": "The Saint of Bright Doors",
@@ -7771,9 +7958,9 @@
     {
       "title": "The School for Good Mothers",
       "author": "Jessamine Chan",
-      "year": 0,
+      "year": 2022,
       "rating": 3.53,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1639314979i/57846320.jpg",
       "url": "https://www.goodreads.com/book/show/57846320",
       "tags": [
         "fiction"
@@ -7787,7 +7974,8 @@
       "awards": [
         "National Book Critics Circle Award",
         "The Rooster -- The Morning News Tournament of Books"
-      ]
+      ],
+      "numberOfRatings": 128448
     },
     {
       "title": "The School of Night",
@@ -7826,9 +8014,9 @@
     {
       "title": "The Searcher",
       "author": "Tana French",
-      "year": 0,
+      "year": 2020,
       "rating": 3.8,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1588572246i/52661162.jpg",
       "url": "https://www.goodreads.com/book/show/52661162",
       "tags": [
         "crime"
@@ -7841,14 +8029,15 @@
       "awards": [],
       "series": "Cal Hooper",
       "pages": 451,
-      "numberOfPages": 451
+      "numberOfPages": 451,
+      "numberOfRatings": 165966
     },
     {
       "title": "The Secret of Secrets",
       "author": "Dan Brown",
-      "year": 0,
+      "year": 2025,
       "rating": 3.93,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1761313537i/223889699.jpg",
       "url": "https://www.goodreads.com/book/show/223889699",
       "tags": [
         "historical",
@@ -7858,7 +8047,8 @@
       "challenges": [
         "community_picks",
         "trending_books"
-      ]
+      ],
+      "numberOfRatings": 156269
     },
     {
       "title": "The Sentence",
@@ -7896,9 +8086,9 @@
     {
       "title": "The Shadow of the Gods",
       "author": "John Gwynne",
-      "year": 0,
+      "year": 2021,
       "rating": 4.19,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1610375894i/52694527.jpg",
       "url": "https://www.goodreads.com/book/show/52694527",
       "tags": [
         "fiction"
@@ -7906,7 +8096,8 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
-      ]
+      ],
+      "numberOfRatings": 103005
     },
     {
       "title": "The Shots You Take",
@@ -8076,9 +8267,9 @@
     {
       "title": "The Violin Conspiracy",
       "author": "Brendan Slocumb",
-      "year": 0,
+      "year": 2022,
       "rating": 4.11,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1628523857i/58386733.jpg",
       "url": "https://www.goodreads.com/book/show/58386733",
       "tags": [
         "fiction"
@@ -8093,14 +8284,15 @@
         "Audie Award",
         "ALA Alex Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 68757
     },
     {
       "title": "The Wager",
       "author": "David Grann",
-      "year": 0,
+      "year": 2023,
       "rating": 4.17,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1659407155i/61714633.jpg",
       "url": "https://www.goodreads.com/book/show/61714633",
       "tags": [
         "fiction"
@@ -8114,7 +8306,8 @@
       "awards": [
         "Audie Award",
         "Goodreads Choice Award"
-      ]
+      ],
+      "numberOfRatings": 220822
     },
     {
       "title": "The Watermark",
@@ -8177,9 +8370,9 @@
     {
       "title": "The Wide Wide Sea",
       "author": "Hampton Sides",
-      "year": 0,
+      "year": 2024,
       "rating": 4.46,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1694286652i/191746386.jpg",
       "url": "https://www.goodreads.com/book/show/191746386",
       "tags": [
         "fiction"
@@ -8192,14 +8385,15 @@
       "numberOfPages": 408,
       "awards": [
         "Audie Award"
-      ]
+      ],
+      "numberOfRatings": 22732
     },
     {
       "title": "The Widow",
       "author": "John Grisham",
-      "year": 0,
+      "year": 2025,
       "rating": 4.09,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1742957382i/229004506.jpg",
       "url": "https://www.goodreads.com/book/show/229004506",
       "tags": [
         "thriller"
@@ -8208,7 +8402,8 @@
       "challenges": [
         "community_picks",
         "trending_books"
-      ]
+      ],
+      "numberOfRatings": 107585
     },
     {
       "title": "The Wild Card",
@@ -8232,9 +8427,9 @@
     {
       "title": "The Will of the Many",
       "author": "James Islington",
-      "year": 0,
+      "year": 2023,
       "rating": 4.58,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1670363463i/58416952.jpg",
       "url": "https://www.goodreads.com/book/show/58416952",
       "tags": [
         "fiction"
@@ -8242,7 +8437,8 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
-      ]
+      ],
+      "numberOfRatings": 238041
     },
     {
       "title": "The Witch Roads",
@@ -8324,9 +8520,9 @@
     {
       "title": "There's Always This Year",
       "author": "Hanif Abdurraqib",
-      "year": 0,
+      "year": 2024,
       "rating": 4.26,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1691597828i/181346634.jpg",
       "url": "https://www.goodreads.com/book/show/181346634",
       "tags": [
         "fiction"
@@ -8334,7 +8530,8 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
-      ]
+      ],
+      "numberOfRatings": 14133
     },
     {
       "title": "This Book Made Me Think of You",
@@ -8415,9 +8612,9 @@
     {
       "title": "Tom Lake",
       "author": "Ann Patchett",
-      "year": 0,
+      "year": 2023,
       "rating": 3.93,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1691084837i/63241104.jpg",
       "url": "https://www.goodreads.com/book/show/63241104",
       "tags": [
         "fiction"
@@ -8425,14 +8622,15 @@
       "longBook": false,
       "challenges": [
         "editors_picks"
-      ]
+      ],
+      "numberOfRatings": 514956
     },
     {
       "title": "Tomorrow, and Tomorrow, and Tomorrow",
       "author": "Gabrielle Zevin",
-      "year": 0,
+      "year": 2022,
       "rating": 4.11,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1636978687i/58784475.jpg",
       "url": "https://www.goodreads.com/book/show/58784475",
       "tags": [
         "literary"
@@ -8440,7 +8638,8 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 1401876
     },
     {
       "title": "Tourist Season",
@@ -8567,9 +8766,9 @@
     {
       "title": "Vera Wong's Unsolicited Advice for Murderers",
       "author": "Jesse Q. Sutanto",
-      "year": 0,
+      "year": 2023,
       "rating": 4.02,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1671523771i/61827543.jpg",
       "url": "https://www.goodreads.com/book/show/61827543",
       "tags": [
         "cozy",
@@ -8578,14 +8777,15 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 213169
     },
     {
       "title": "Verity",
       "author": "Colleen Hoover",
-      "year": 0,
+      "year": 2018,
       "rating": 4.29,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1634158558i/59344312.jpg",
       "url": "https://www.goodreads.com/book/show/59344312",
       "tags": [
         "psychological-thriller",
@@ -8594,7 +8794,8 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 3937808
     },
     {
       "title": "Vigil",
@@ -8633,9 +8834,9 @@
     {
       "title": "We Are All Guilty Here",
       "author": "C.J. Cooke",
-      "year": 0,
+      "year": 2025,
       "rating": 4.2,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1776449135i/221544394.jpg",
       "url": "https://www.goodreads.com/book/show/221544394",
       "tags": [
         "mystery",
@@ -8649,7 +8850,8 @@
       "awards": [],
       "series": "North Falls",
       "pages": 439,
-      "numberOfPages": 439
+      "numberOfPages": 439,
+      "numberOfRatings": 147649
     },
     {
       "title": "We Love You, Bunny",
@@ -8678,7 +8880,7 @@
     {
       "title": "We Solve Murders",
       "author": "Richard Osman",
-      "year": 0,
+      "year": 2024,
       "rating": 4.05,
       "cover": "",
       "url": "https://www.goodreads.com/book/show/219449299",
@@ -8695,7 +8897,8 @@
         "Australian Book Industry Award (ABIA)",
         "Goodreads Choice Award",
         "Libby Award"
-      ]
+      ],
+      "numberOfRatings": 189452
     },
     {
       "title": "We Survived the Night",
@@ -8794,9 +8997,9 @@
     {
       "title": "What Lies in the Woods",
       "author": "Kate Alice Marshall",
-      "year": 0,
+      "year": 2023,
       "rating": 3.94,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1652628677i/60784373.jpg",
       "url": "https://www.goodreads.com/book/show/60784373",
       "tags": [
         "mystery",
@@ -8805,7 +9008,8 @@
       "longBook": false,
       "challenges": [
         "community_picks"
-      ]
+      ],
+      "numberOfRatings": 207885
     },
     {
       "title": "What Stalks the Deep",
@@ -8846,9 +9050,9 @@
     {
       "title": "What You Are Looking for Is in the Library",
       "author": "Michiko Aoyama",
-      "year": 0,
+      "year": 2020,
       "rating": 4.03,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1683915876i/91274427.jpg",
       "url": "https://www.goodreads.com/book/show/91274427",
       "tags": [
         "books-about-books"
@@ -8856,14 +9060,15 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "numberOfRatings": 127212
     },
     {
       "title": "When the Sea Came Alive",
       "author": "Garrett M. Graff",
-      "year": 0,
+      "year": 2024,
       "rating": 4.5,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1711030488i/199797834.jpg",
       "url": "https://www.goodreads.com/book/show/199797834",
       "tags": [
         "fiction"
@@ -8872,7 +9077,8 @@
       "challenges": [
         "editors_picks"
       ],
-      "description": "From Pulitzer finalist Garrett Graff, the most up-to-date and complete account of D-Day—from the secret creation of landing plans to the moment 150,000 Allied troops hit the beaches, and the human stories of those five defining weeks of WWII."
+      "description": "From Pulitzer finalist Garrett Graff, the most up-to-date and complete account of D-Day—from the secret creation of landing plans to the moment 150,000 Allied troops hit the beaches, and the human stories of those five defining weeks of WWII.",
+      "numberOfRatings": 3689
     },
     {
       "title": "When the Tides Held the Moon",
@@ -8916,9 +9122,9 @@
     {
       "title": "Whidbey",
       "author": "Elizabeth George",
-      "year": 0,
+      "year": 2026,
       "rating": 3.5,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751916938i/236079795.jpg",
       "url": "https://www.goodreads.com/book/show/236079795",
       "tags": [
         "crime",
@@ -8930,14 +9136,15 @@
       ],
       "description": "Birdie Chang is on the run when she arrives on Whidbey Island, desperate to escape Calvin Boyer—the man who abused her as a child and has now resurfaced. A fellow survivor wrote a bestselling memoir about Calvin's crimes. When Calvin turns up murdered, both women begin a desperate search for answers in this complex whodunnit about justice and who gets to tell the story.",
       "pages": 372,
-      "numberOfPages": 372
+      "numberOfPages": 372,
+      "numberOfRatings": 3212
     },
     {
       "title": "Who Is Maud Dixon?",
       "author": "Alexandra Andrews",
-      "year": 0,
+      "year": 2021,
       "rating": 3.82,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1602084519i/52320705.jpg",
       "url": "https://www.goodreads.com/book/show/52320705",
       "tags": [
         "books-about-books"
@@ -8945,14 +9152,15 @@
       "longBook": false,
       "challenges": [
         "books_on_books"
-      ]
+      ],
+      "numberOfRatings": 41429
     },
     {
       "title": "Why We Read",
       "author": "Shannon Reed",
-      "year": 0,
+      "year": 2024,
       "rating": 3.69,
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1700591104i/127975811.jpg",
       "url": "https://www.goodreads.com/book/show/127975811",
       "tags": [
         "books-about-books"
@@ -8961,7 +9169,8 @@
       "challenges": [
         "books_on_books"
       ],
-      "description": "Shannon Reed makes the case that we should read for pleasure above all else. In this whip-smart, funny collection, she shares surprising stories from her life as a reader and the poignant ways books have impacted her students."
+      "description": "Shannon Reed makes the case that we should read for pleasure above all else. In this whip-smart, funny collection, she shares surprising stories from her life as a reader and the poignant ways books have impacted her students.",
+      "numberOfRatings": 4322
     },
     {
       "title": "Wild Rain",
